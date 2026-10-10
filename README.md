@@ -9,6 +9,8 @@ com fontes oficiais e evolução para RAG no CKP02.
 **Integrantes e RMs:** Luigi Borgheti Freire RM569958
 (Grupo do Challenge é da 1CCA)
 
+Link do Google Colab: [Colab](https://colab.research.google.com/drive/1mCYMct9ngB1DexDncnIE0O_vi0jZbZ6C?usp=sharing)
+
 ## Validação real e estado de entrega
 
 O Gemma no Ollama Cloud foi validado com a configuração do `.env`:
