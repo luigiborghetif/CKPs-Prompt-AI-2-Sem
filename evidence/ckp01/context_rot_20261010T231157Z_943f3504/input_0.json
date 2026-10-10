@@ -1,0 +1,18 @@
+[
+  {
+    "content": "<tarefa>\nExtraia os quatro fatos do REGISTRO ALVO do contexto. Ignore os registros de\ndistração. Use null se o fato não estiver presente. Não use conhecimento externo.\n</tarefa>\n<contexto>REGISTRO ALVO: município São Paulo capital; resíduo entulho; volume 0,5 m³; código SP-ALVO-7319.\n</contexto>\n<formato>The output should be formatted as a JSON instance that conforms to the JSON schema below.\n\nAs an example, for the schema {\"properties\": {\"foo\": {\"title\": \"Foo\", \"description\": \"a list of strings\", \"type\": \"array\", \"items\": {\"type\": \"string\"}}}, \"required\": [\"foo\"]}\nthe object {\"foo\": [\"bar\", \"baz\"]} is a well-formatted instance of the schema. The object {\"properties\": {\"foo\": [\"bar\", \"baz\"]}} is not well-formatted.\n\nHere is the output schema:\n```\n{\"additionalProperties\": false, \"properties\": {\"municipio\": {\"anyOf\": [{\"type\": \"string\"}, {\"type\": \"null\"}], \"title\": \"Municipio\"}, \"residuo\": {\"anyOf\": [{\"type\": \"string\"}, {\"type\": \"null\"}], \"title\": \"Residuo\"}, \"volume_m3\": {\"anyOf\": [{\"minimum\": 0, \"type\": \"number\"}, {\"type\": \"null\"}], \"title\": \"Volume M3\"}, \"codigo\": {\"anyOf\": [{\"type\": \"string\"}, {\"type\": \"null\"}], \"title\": \"Codigo\"}}, \"required\": [\"municipio\", \"residuo\", \"volume_m3\", \"codigo\"]}\n```</formato>",
+    "additional_kwargs": {},
+    "response_metadata": {},
+    "type": "system",
+    "name": null,
+    "id": null
+  },
+  {
+    "content": "Qual é o município, o resíduo, o volume em m³ e o código do REGISTRO ALVO?",
+    "additional_kwargs": {},
+    "response_metadata": {},
+    "type": "human",
+    "name": null,
+    "id": null
+  }
+]

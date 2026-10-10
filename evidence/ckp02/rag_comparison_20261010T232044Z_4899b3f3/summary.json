@@ -1,0 +1,32 @@
+[
+  {
+    "configuration": "256_32_baseline",
+    "questions": 10,
+    "valid": 10,
+    "errors": 0,
+    "complete": true,
+    "faithfulness_mean": 0.95,
+    "answer_relevancy_mean": 0.776497758502799,
+    "latency_mean_seconds": 6.19407
+  },
+  {
+    "configuration": "512_64_baseline",
+    "questions": 10,
+    "valid": 10,
+    "errors": 0,
+    "complete": true,
+    "faithfulness_mean": 0.9666666666666667,
+    "answer_relevancy_mean": 0.7656472659362932,
+    "latency_mean_seconds": 5.30878
+  },
+  {
+    "configuration": "512_64_rerank",
+    "questions": 10,
+    "valid": 10,
+    "errors": 0,
+    "complete": true,
+    "faithfulness_mean": 1.0,
+    "answer_relevancy_mean": 0.7763731860779266,
+    "latency_mean_seconds": 6.8211900000000005
+  }
+]

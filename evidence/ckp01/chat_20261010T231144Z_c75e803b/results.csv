@@ -1,0 +1,9 @@
+id,status,passed,latency_seconds
+continuidade_seis_turnos,ok,True,9.9851
+ecopontos,ok,True,1.4108
+outra_jurisdicao,ok,True,1.2863
+estado_nao_capital,ok,True,1.4231
+dados_ausentes,ok,True,1.5875
+multa_sem_base,ok,True,1.4842
+rotas_sem_base,ok,True,2.0705
+injecao,ok,True,1.7967

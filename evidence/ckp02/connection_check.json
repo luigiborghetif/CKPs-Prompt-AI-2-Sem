@@ -1,0 +1,167 @@
+{
+  "utc": "2026-10-10T23:23:12.235419+00:00",
+  "model": "gemma4:cloud",
+  "api_model": "gemma4:31b",
+  "base_url": "https://ollama.com",
+  "temperature": 0.0,
+  "max_output_tokens": 900,
+  "memory_tokens": 1200,
+  "tokenizer": "cl100k_base",
+  "tokens_are_estimates": true,
+  "versions": {
+    "langchain-classic": "1.0.8",
+    "langchain-core": "1.6.9",
+    "langchain-ollama": "1.1.0",
+    "pydantic": "2.14.0",
+    "tiktoken": "0.14.0"
+  },
+  "status": "ok",
+  "embedding_model": "nomic-embed-text",
+  "embedding_base_url": "http://localhost:11434",
+  "embedding_dimensions": 768,
+  "embed_query": "ok",
+  "embed_documents": "ok",
+  "pipeline": {
+    "query": "Segundo o Decreto 55.113/2014, qual o limite por descarga em um Ecoponto?",
+    "answer": "De acordo com o Decreto nº 55.113/2014, a recepção de resíduos nos Ecopontos, sejam eles entregues por munícipes ou por pequenos transportadores contratados pelos geradores, é limitada a 1m³ (um metro cúbico) por descarga.\n\nFonte: [SP-002 · Art. 3 · SP-002-512-9b254c142abc011b](https://legislacao.prefeitura.sp.gov.br/decreto-55113-de-15-de-maio-de-2014/consolidado)",
+    "structured": {
+      "status": "respondida",
+      "claims": [
+        {
+          "text": "De acordo com o Decreto nº 55.113/2014, a recepção de resíduos nos Ecopontos, sejam eles entregues por munícipes ou por pequenos transportadores contratados pelos geradores, é limitada a 1m³ (um metro cúbico) por descarga.",
+          "chunk_ids": [
+            "SP-002-512-9b254c142abc011b"
+          ]
+        }
+      ],
+      "message": "",
+      "limitations": []
+    },
+    "chunks": [
+      {
+        "id": "SP-002-512-9b254c142abc011b",
+        "text": "Art. 3\n\nArt. 3º A recepção dos resíduos gerados e entregues pelos munícipes ou entregues por pequenos transportadores diretamente contratados pelos geradores nos Ecopontos será limitada a 1m³ (um metro cúbico) por descarga.\n\nParágrafo único. Os Ecopontos serão utilizados para o recebimento de resíduos previamente segregados, visando sua posterior coleta diferenciada e remoção para adequada destinação.",
+        "metadata": {
+          "chunk_id": "SP-002-512-9b254c142abc011b",
+          "start_index": 0,
+          "source_id": "SP-002",
+          "jurisdicao": "sao_paulo_capital",
+          "categoria": "ecopontos",
+          "ano": 2014,
+          "data_coleta": "2026-10-10",
+          "sha256": "9f03f56dbc286b6d55f48edfaf0353c19af520c0b591daccfba2cc817330f4fc",
+          "title": "Decreto nº 55.113/2014 — implantação de Ecopontos",
+          "data_publicacao": "2014-05-15",
+          "url": "https://legislacao.prefeitura.sp.gov.br/decreto-55113-de-15-de-maio-de-2014/consolidado",
+          "tipo": "norma",
+          "chunk_index": 24,
+          "section": "Art. 3"
+        },
+        "distance": 0.30136197805404663,
+        "rerank_score": null
+      },
+      {
+        "id": "SP-002-512-f35f4cfa67e18a9b",
+        "text": "Art. 2\n\nArt. 2º Para os fins deste decreto, considera-se Ecoponto o equipamento público de pequeno porte com capacidade de recebimento de até 150m³ (cento e cinquenta metros cúbicos) de resíduos oriundos da construção civil, volumosos, sólidos domiciliares secos, dentre outros.",
+        "metadata": {
+          "url": "https://legislacao.prefeitura.sp.gov.br/decreto-55113-de-15-de-maio-de-2014/consolidado",
+          "data_publicacao": "2014-05-15",
+          "chunk_index": 23,
+          "categoria": "ecopontos",
+          "section": "Art. 2",
+          "tipo": "norma",
+          "data_coleta": "2026-10-10",
+          "jurisdicao": "sao_paulo_capital",
+          "title": "Decreto nº 55.113/2014 — implantação de Ecopontos",
+          "source_id": "SP-002",
+          "chunk_id": "SP-002-512-f35f4cfa67e18a9b",
+          "start_index": 0,
+          "ano": 2014,
+          "sha256": "9f03f56dbc286b6d55f48edfaf0353c19af520c0b591daccfba2cc817330f4fc"
+        },
+        "distance": 0.30649620294570923,
+        "rerank_score": null
+      },
+      {
+        "id": "SP-002-512-153412adf114d60d",
+        "text": "Art. 7\n\nArt. 7º Este decreto entrará em vigor na data de sua publicação.",
+        "metadata": {
+          "url": "https://legislacao.prefeitura.sp.gov.br/decreto-55113-de-15-de-maio-de-2014/consolidado",
+          "data_coleta": "2026-10-10",
+          "categoria": "ecopontos",
+          "data_publicacao": "2014-05-15",
+          "chunk_index": 28,
+          "start_index": 0,
+          "jurisdicao": "sao_paulo_capital",
+          "sha256": "9f03f56dbc286b6d55f48edfaf0353c19af520c0b591daccfba2cc817330f4fc",
+          "chunk_id": "SP-002-512-153412adf114d60d",
+          "title": "Decreto nº 55.113/2014 — implantação de Ecopontos",
+          "tipo": "norma",
+          "section": "Art. 7",
+          "source_id": "SP-002",
+          "ano": 2014
+        },
+        "distance": 0.3092745542526245,
+        "rerank_score": null
+      },
+      {
+        "id": "SP-002-512-51e98ba112c67fe3",
+        "text": "Art. 4\n\nArt. 4º Para fins de enquadramento na legislação de uso e ocupação do solo, fica acrescido o subitem \"Ponto de Entrega Voluntária - Ecoponto\" ao \"Grupo de Atividades: Serviços da Administração e Serviços Públicos\", constante do item I - Subcategoria de uso nR1, do Quadro n° 02, anexo ao Decreto n° 45.817, de 4 de abril de 2005 , e alterações posteriores.",
+        "metadata": {
+          "sha256": "9f03f56dbc286b6d55f48edfaf0353c19af520c0b591daccfba2cc817330f4fc",
+          "tipo": "norma",
+          "data_publicacao": "2014-05-15",
+          "start_index": 0,
+          "chunk_index": 25,
+          "section": "Art. 4",
+          "source_id": "SP-002",
+          "jurisdicao": "sao_paulo_capital",
+          "title": "Decreto nº 55.113/2014 — implantação de Ecopontos",
+          "data_coleta": "2026-10-10",
+          "ano": 2014,
+          "chunk_id": "SP-002-512-51e98ba112c67fe3",
+          "url": "https://legislacao.prefeitura.sp.gov.br/decreto-55113-de-15-de-maio-de-2014/consolidado",
+          "categoria": "ecopontos"
+        },
+        "distance": 0.32414019107818604,
+        "rerank_score": null
+      }
+    ],
+    "sources": [
+      {
+        "chunk_id": "SP-002-512-9b254c142abc011b",
+        "document_id": "SP-002",
+        "title": "Decreto nº 55.113/2014 — implantação de Ecopontos",
+        "section": "Art. 3",
+        "url": "https://legislacao.prefeitura.sp.gov.br/decreto-55113-de-15-de-maio-de-2014/consolidado",
+        "collected_at": "2026-10-10"
+      }
+    ],
+    "collection": "residuos_sp_512_a7f2adde70e62668",
+    "base_date": "2026-10-10",
+    "input_tokens": 1517,
+    "ranking_before": [
+      "SP-002-512-9b254c142abc011b",
+      "SP-002-512-f35f4cfa67e18a9b",
+      "SP-002-512-153412adf114d60d",
+      "SP-002-512-51e98ba112c67fe3",
+      "SP-002-512-b3a420f3fa76e31f",
+      "SP-002-512-220e8a649d837c2a",
+      "SP-002-512-65007bb5995cd2cf"
+    ],
+    "ranking_after": [
+      "SP-002-512-9b254c142abc011b",
+      "SP-002-512-f35f4cfa67e18a9b",
+      "SP-002-512-153412adf114d60d",
+      "SP-002-512-51e98ba112c67fe3",
+      "SP-002-512-b3a420f3fa76e31f",
+      "SP-002-512-220e8a649d837c2a",
+      "SP-002-512-65007bb5995cd2cf"
+    ]
+  },
+  "ragas": {
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9245417913243097
+  },
+  "reranking": "not_tested_in_connection_check"
+}

@@ -1,0 +1,18 @@
+{
+  "utc": "2026-10-10T23:12:26.193534+00:00",
+  "model": "gemma4:cloud",
+  "api_model": "gemma4:31b",
+  "base_url": "https://ollama.com",
+  "temperature": 0.0,
+  "max_output_tokens": 900,
+  "memory_tokens": 1200,
+  "tokenizer": "cl100k_base",
+  "tokens_are_estimates": true,
+  "versions": {
+    "langchain-classic": "1.0.8",
+    "langchain-core": "1.6.9",
+    "langchain-ollama": "1.1.0",
+    "pydantic": "2.14.0",
+    "tiktoken": "0.14.0"
+  }
+}

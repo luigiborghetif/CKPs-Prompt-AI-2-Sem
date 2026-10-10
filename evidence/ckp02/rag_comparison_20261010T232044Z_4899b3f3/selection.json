@@ -1,0 +1,5 @@
+{
+  "selected": "512_64_rerank",
+  "reason": "Maior faithfulness; answer_relevancy como desempate; todas as perguntas válidas.",
+  "target_ideal": 0.9
+}

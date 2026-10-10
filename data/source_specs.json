@@ -1,0 +1,84 @@
+[
+  {
+    "id": "SP-001",
+    "title": "Lei nº 13.478/2002 — disposições sobre limpeza urbana",
+    "url": "https://legislacao.prefeitura.sp.gov.br/lei-13478-de-30-de-dezembro-de-2002",
+    "type": "norma",
+    "category": "limpeza_urbana",
+    "publication_date": "2002-12-30",
+    "publisher": "Prefeitura do Município de São Paulo",
+    "jurisdiction": "sao_paulo_capital",
+    "collected_at": "2026-10-10",
+    "articles": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "excerpt": "Artigos 1 a 9; excluídos trechos riscados/revogados no snapshot."
+  },
+  {
+    "id": "SP-002",
+    "title": "Decreto nº 55.113/2014 — implantação de Ecopontos",
+    "url": "https://legislacao.prefeitura.sp.gov.br/decreto-55113-de-15-de-maio-de-2014/consolidado",
+    "type": "norma",
+    "category": "ecopontos",
+    "publication_date": "2014-05-15",
+    "publisher": "Prefeitura do Município de São Paulo",
+    "jurisdiction": "sao_paulo_capital",
+    "collected_at": "2026-10-10",
+    "articles": null,
+    "excerpt": "Artigos do texto disponibilizado; excluídos trechos riscados/revogados no snapshot."
+  },
+  {
+    "id": "SP-003",
+    "title": "Portaria SMSUB nº 11/2020 — coleta seletiva de recicláveis secos",
+    "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-11-de-7-de-fevereiro-de-2020/consolidado",
+    "type": "norma",
+    "category": "coleta_seletiva",
+    "publication_date": "2020-02-07",
+    "publisher": "Prefeitura do Município de São Paulo",
+    "jurisdiction": "sao_paulo_capital",
+    "collected_at": "2026-10-10",
+    "articles": null,
+    "excerpt": "Artigos do texto disponibilizado; excluídos trechos riscados/revogados no snapshot."
+  },
+  {
+    "id": "SP-004",
+    "title": "Lei nº 14.803/2008 — resíduos da construção civil e volumosos",
+    "url": "https://legislacao.prefeitura.sp.gov.br/lei-14803-de-26-de-junho-de-2008",
+    "type": "norma",
+    "category": "descarte",
+    "publication_date": "2008-06-26",
+    "publisher": "Prefeitura do Município de São Paulo",
+    "jurisdiction": "sao_paulo_capital",
+    "collected_at": "2026-10-10",
+    "articles": [
+      1,
+      2,
+      3,
+      7,
+      8,
+      9
+    ],
+    "excerpt": "Artigos 1, 2, 3, 7, 8 e 9; excluídos trechos riscados/revogados no snapshot."
+  },
+  {
+    "id": "SP-005",
+    "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+    "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+    "type": "norma",
+    "category": "ecopontos",
+    "publication_date": "2024-01-22",
+    "publisher": "Prefeitura do Município de São Paulo",
+    "jurisdiction": "sao_paulo_capital",
+    "collected_at": "2026-10-10",
+    "articles": null,
+    "excerpt": "Artigos do texto disponibilizado; excluídos trechos riscados/revogados no snapshot."
+  }
+]

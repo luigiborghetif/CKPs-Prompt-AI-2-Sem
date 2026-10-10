@@ -1,0 +1,1817 @@
+[
+  {
+    "configuration": "256_32_baseline",
+    "question": {
+      "id": "limite_descarga",
+      "question": "Segundo o Decreto 55.113/2014, qual é o limite de resíduos por descarga em um Ecoponto?",
+      "reference": "O artigo 3 limita a recepção a 1 m³ por descarga, para resíduos entregues pelos munícipes ou pequenos transportadores contratados pelos geradores.",
+      "source_ids": [
+        "SP-002"
+      ],
+      "sections": [
+        "Art. 3"
+      ]
+    },
+    "result": {
+      "query": "Segundo o Decreto 55.113/2014, qual é o limite de resíduos por descarga em um Ecoponto?",
+      "answer": "Os trechos fornecidos mencionam que os limites de volume permitidos para descarga devem ser observados, mas não especificam quais são esses valores numéricos ou as quantidades exatas estabelecidas pelo Decreto nº 55.113/2014.\n\nLimitações: Os trechos citam a obrigatoriedade de observar os limites de volume, mas não detalham a metragem ou o peso permitido por descarga.",
+      "structured": {
+        "status": "sem_base",
+        "claims": [],
+        "message": "Os trechos fornecidos mencionam que os limites de volume permitidos para descarga devem ser observados, mas não especificam quais são esses valores numéricos ou as quantidades exatas estabelecidas pelo Decreto nº 55.113/2014.",
+        "limitations": [
+          "Os trechos citam a obrigatoriedade de observar os limites de volume, mas não detalham a metragem ou o peso permitido por descarga."
+        ]
+      },
+      "chunks": [
+        {
+          "id": "SP-005-256-b1f0f43b3a8c4c4b",
+          "text": ". 1º Fica autorizado, nos termos desta Portaria, o recebimento nos Ecopontos, implantados conforme o Decreto nº 55.113 de 15 de maio de 2014 , de resíduos sólidos entregues por munícipes ou pequenos transportadores que sejam objeto de Acordos Setoriais de",
+          "metadata": {
+            "chunk_index": 154,
+            "ano": 2024,
+            "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+            "sha256": "9f8314b3eaefbfed715edb680db010aeb0e6fb3ab3bc7339249e3a774217cb93",
+            "source_id": "SP-005",
+            "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+            "section": "Art. 1",
+            "data_coleta": "2026-10-10",
+            "chunk_id": "SP-005-256-b1f0f43b3a8c4c4b",
+            "start_index": 11,
+            "data_publicacao": "2024-01-22",
+            "jurisdicao": "sao_paulo_capital",
+            "categoria": "ecopontos",
+            "tipo": "norma"
+          },
+          "distance": 0.2150355577468872,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-005-256-2962a16df5dc5089",
+          "text": "2014 , devendo ser observado os limites de volume permitidos para descarga.",
+          "metadata": {
+            "jurisdicao": "sao_paulo_capital",
+            "chunk_index": 182,
+            "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+            "data_coleta": "2026-10-10",
+            "tipo": "norma",
+            "source_id": "SP-005",
+            "ano": 2024,
+            "data_publicacao": "2024-01-22",
+            "chunk_id": "SP-005-256-2962a16df5dc5089",
+            "section": "Art. 5",
+            "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+            "categoria": "ecopontos",
+            "sha256": "9f8314b3eaefbfed715edb680db010aeb0e6fb3ab3bc7339249e3a774217cb93",
+            "start_index": 233
+          },
+          "distance": 0.21535319089889526,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-004-256-b026772150841381",
+          "text": "§ 1º Os Pontos de Entrega receberão descargas de resíduos de construção e resíduos volumosos, definidos em decreto regulamentar, para triagem obrigatória, posterior transbordo e destinação adequada dos diversos componentes.(Redação dada pela Lei nº",
+          "metadata": {
+            "sha256": "f281a57994b442b4692f27fc07a966e476aa58fa37e7ae989c7018803c4c9a9c",
+            "data_publicacao": "2008-06-26",
+            "categoria": "descarte",
+            "start_index": 739,
+            "title": "Lei nº 14.803/2008 — resíduos da construção civil e volumosos",
+            "section": "Art. 8",
+            "jurisdicao": "sao_paulo_capital",
+            "source_id": "SP-004",
+            "url": "https://legislacao.prefeitura.sp.gov.br/lei-14803-de-26-de-junho-de-2008",
+            "tipo": "norma",
+            "chunk_index": 142,
+            "chunk_id": "SP-004-256-b026772150841381",
+            "ano": 2008,
+            "data_coleta": "2026-10-10"
+          },
+          "distance": 0.23854511976242065,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-005-256-e7e9a7f0f28ce529",
+          "text": ". 5º O recebimento dos resíduos previstos nesta Portaria deverá ocorrer sem prejuízo das funções dos Ecopontos previstas na Lei Municipal nº 14.803, 26 de junho de 2008 , e no Decreto Municipal nº 55.113, de 15 de maio de 2014 , devendo ser observado os",
+          "metadata": {
+            "data_coleta": "2026-10-10",
+            "start_index": 11,
+            "section": "Art. 5",
+            "jurisdicao": "sao_paulo_capital",
+            "categoria": "ecopontos",
+            "sha256": "9f8314b3eaefbfed715edb680db010aeb0e6fb3ab3bc7339249e3a774217cb93",
+            "chunk_id": "SP-005-256-e7e9a7f0f28ce529",
+            "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+            "data_publicacao": "2024-01-22",
+            "source_id": "SP-005",
+            "ano": 2024,
+            "chunk_index": 181,
+            "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+            "tipo": "norma"
+          },
+          "distance": 0.24287939071655273,
+          "rerank_score": null
+        }
+      ],
+      "sources": [],
+      "collection": "residuos_sp_256_6b548ce32101da13",
+      "base_date": "2026-10-10",
+      "input_tokens": 1388,
+      "ranking_before": [
+        "SP-005-256-b1f0f43b3a8c4c4b",
+        "SP-005-256-2962a16df5dc5089",
+        "SP-004-256-b026772150841381",
+        "SP-005-256-e7e9a7f0f28ce529",
+        "SP-002-256-121932cf733eca01",
+        "SP-004-256-78d304f2f55705f8",
+        "SP-004-256-edb57dfe0a928161",
+        "SP-002-256-393d05e0d0e80786"
+      ],
+      "ranking_after": [
+        "SP-005-256-b1f0f43b3a8c4c4b",
+        "SP-005-256-2962a16df5dc5089",
+        "SP-004-256-b026772150841381",
+        "SP-005-256-e7e9a7f0f28ce529",
+        "SP-002-256-121932cf733eca01",
+        "SP-004-256-78d304f2f55705f8",
+        "SP-004-256-edb57dfe0a928161",
+        "SP-002-256-393d05e0d0e80786"
+      ]
+    },
+    "evaluation": {
+      "configuration": "256_32_baseline",
+      "question_id": "limite_descarga",
+      "question": "Segundo o Decreto 55.113/2014, qual é o limite de resíduos por descarga em um Ecoponto?",
+      "status": "ok",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.0,
+      "expected_source_found": false,
+      "error": null,
+      "latency_seconds": 20.024
+    }
+  },
+  {
+    "configuration": "256_32_baseline",
+    "question": {
+      "id": "capacidade_e_descarga",
+      "question": "No Decreto 55.113/2014, a capacidade de 150 m³ do Ecoponto significa que um cidadão pode entregar 150 m³ de uma vez? Explique a diferença.",
+      "reference": "Não. O artigo 2 descreve a capacidade de recebimento de até 150 m³ do equipamento público, enquanto o artigo 3 limita cada descarga a 1 m³.",
+      "source_ids": [
+        "SP-002"
+      ],
+      "sections": [
+        "Art. 2",
+        "Art. 3"
+      ]
+    },
+    "evaluation": {
+      "configuration": "256_32_baseline",
+      "question_id": "capacidade_e_descarga",
+      "question": "No Decreto 55.113/2014, a capacidade de 150 m³ do Ecoponto significa que um cidadão pode entregar 150 m³ de uma vez? Explique a diferença.",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 2.5542
+    }
+  },
+  {
+    "configuration": "256_32_baseline",
+    "question": {
+      "id": "segregacao",
+      "question": "Segundo o parágrafo único do artigo 3 do Decreto 55.113/2014, os resíduos entregues aos Ecopontos devem estar previamente segregados? Para quê?",
+      "reference": "Sim. Os resíduos devem ser previamente segregados para posterior coleta diferenciada e remoção para adequada destinação.",
+      "source_ids": [
+        "SP-002"
+      ],
+      "sections": [
+        "Art. 3"
+      ]
+    },
+    "evaluation": {
+      "configuration": "256_32_baseline",
+      "question_id": "segregacao",
+      "question": "Segundo o parágrafo único do artigo 3 do Decreto 55.113/2014, os resíduos entregues aos Ecopontos devem estar previamente segregados? Para quê?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 2.126
+    }
+  },
+  {
+    "configuration": "256_32_baseline",
+    "question": {
+      "id": "modelos_coleta",
+      "question": "Quais são os dois modelos de coleta seletiva de recicláveis secos previstos no artigo 1 da Portaria SMSUB 11/2020?",
+      "reference": "Coleta porta a porta por caminhões e Pontos de Entrega Voluntária (PEVs), disponibilizados conforme as características de ocupação do solo de cada região.",
+      "source_ids": [
+        "SP-003"
+      ],
+      "sections": [
+        "Art. 1"
+      ]
+    },
+    "result": {
+      "query": "Quais são os dois modelos de coleta seletiva de recicláveis secos previstos no artigo 1 da Portaria SMSUB 11/2020?",
+      "answer": "Os trechos fornecidos mencionam apenas um dos modelos de coleta seletiva de resíduos recicláveis secos previstos no Art. 1º da Portaria SMSUB nº 11/2020.\n\nLimitações: O trecho SP-003-256-397da3d7afaa8e36 está incompleto, listando apenas o inciso I (coleta porta a porta), não havendo informação sobre o segundo modelo.",
+      "structured": {
+        "status": "sem_base",
+        "claims": [],
+        "message": "Os trechos fornecidos mencionam apenas um dos modelos de coleta seletiva de resíduos recicláveis secos previstos no Art. 1º da Portaria SMSUB nº 11/2020.",
+        "limitations": [
+          "O trecho SP-003-256-397da3d7afaa8e36 está incompleto, listando apenas o inciso I (coleta porta a porta), não havendo informação sobre o segundo modelo."
+        ]
+      },
+      "chunks": [
+        {
+          "id": "SP-003-256-397da3d7afaa8e36",
+          "text": "Art. 1\n\nArt. 1º - São modelos de serviços de coleta seletiva de resíduos recicláveis secos:\n\nI – Coleta porta a porta, através de caminhões de coleta e;",
+          "metadata": {
+            "jurisdicao": "sao_paulo_capital",
+            "data_coleta": "2026-10-10",
+            "section": "Art. 1",
+            "sha256": "18f90c28303a5f502e934b6805f13ca501f5a80063730a4477ddfaa103f87191",
+            "chunk_id": "SP-003-256-397da3d7afaa8e36",
+            "categoria": "coleta_seletiva",
+            "title": "Portaria SMSUB nº 11/2020 — coleta seletiva de recicláveis secos",
+            "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-11-de-7-de-fevereiro-de-2020/consolidado",
+            "source_id": "SP-003",
+            "start_index": 0,
+            "chunk_index": 64,
+            "ano": 2020,
+            "data_publicacao": "2020-02-07",
+            "tipo": "norma"
+          },
+          "distance": 0.22489917278289795,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-005-256-e7e9a7f0f28ce529",
+          "text": ". 5º O recebimento dos resíduos previstos nesta Portaria deverá ocorrer sem prejuízo das funções dos Ecopontos previstas na Lei Municipal nº 14.803, 26 de junho de 2008 , e no Decreto Municipal nº 55.113, de 15 de maio de 2014 , devendo ser observado os",
+          "metadata": {
+            "section": "Art. 5",
+            "chunk_id": "SP-005-256-e7e9a7f0f28ce529",
+            "chunk_index": 181,
+            "sha256": "9f8314b3eaefbfed715edb680db010aeb0e6fb3ab3bc7339249e3a774217cb93",
+            "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+            "ano": 2024,
+            "jurisdicao": "sao_paulo_capital",
+            "data_coleta": "2026-10-10",
+            "data_publicacao": "2024-01-22",
+            "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+            "start_index": 11,
+            "tipo": "norma",
+            "categoria": "ecopontos",
+            "source_id": "SP-005"
+          },
+          "distance": 0.30064260959625244,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-001-256-763e82b83b0715af",
+          "text": "II - respeitar as condições e horários de prestação do serviço estabelecidos na regulamentação;",
+          "metadata": {
+            "title": "Lei nº 13.478/2002 — disposições sobre limpeza urbana",
+            "section": "Art. 6",
+            "url": "https://legislacao.prefeitura.sp.gov.br/lei-13478-de-30-de-dezembro-de-2002",
+            "start_index": 197,
+            "data_publicacao": "2002-12-30",
+            "chunk_index": 22,
+            "ano": 2002,
+            "jurisdicao": "sao_paulo_capital",
+            "data_coleta": "2026-10-10",
+            "chunk_id": "SP-001-256-763e82b83b0715af",
+            "categoria": "limpeza_urbana",
+            "sha256": "89d3e1aa12f6f6a29c1b9cd858a2f1f2fe77e80fafe499dfb41da5a504d6d579",
+            "tipo": "norma",
+            "source_id": "SP-001"
+          },
+          "distance": 0.30213606357574463,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-005-256-b1f0f43b3a8c4c4b",
+          "text": ". 1º Fica autorizado, nos termos desta Portaria, o recebimento nos Ecopontos, implantados conforme o Decreto nº 55.113 de 15 de maio de 2014 , de resíduos sólidos entregues por munícipes ou pequenos transportadores que sejam objeto de Acordos Setoriais de",
+          "metadata": {
+            "start_index": 11,
+            "chunk_id": "SP-005-256-b1f0f43b3a8c4c4b",
+            "sha256": "9f8314b3eaefbfed715edb680db010aeb0e6fb3ab3bc7339249e3a774217cb93",
+            "data_coleta": "2026-10-10",
+            "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+            "ano": 2024,
+            "categoria": "ecopontos",
+            "jurisdicao": "sao_paulo_capital",
+            "section": "Art. 1",
+            "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+            "chunk_index": 154,
+            "tipo": "norma",
+            "source_id": "SP-005",
+            "data_publicacao": "2024-01-22"
+          },
+          "distance": 0.3203595280647278,
+          "rerank_score": null
+        }
+      ],
+      "sources": [],
+      "collection": "residuos_sp_256_6b548ce32101da13",
+      "base_date": "2026-10-10",
+      "input_tokens": 1385,
+      "ranking_before": [
+        "SP-003-256-397da3d7afaa8e36",
+        "SP-005-256-e7e9a7f0f28ce529",
+        "SP-001-256-763e82b83b0715af",
+        "SP-005-256-b1f0f43b3a8c4c4b",
+        "SP-004-256-edb57dfe0a928161",
+        "SP-004-256-2840b78070c470a2",
+        "SP-004-256-d30e9ccc17239a29",
+        "SP-001-256-82da9bf6874dbc06"
+      ],
+      "ranking_after": [
+        "SP-003-256-397da3d7afaa8e36",
+        "SP-005-256-e7e9a7f0f28ce529",
+        "SP-001-256-763e82b83b0715af",
+        "SP-005-256-b1f0f43b3a8c4c4b",
+        "SP-004-256-edb57dfe0a928161",
+        "SP-004-256-2840b78070c470a2",
+        "SP-004-256-d30e9ccc17239a29",
+        "SP-001-256-82da9bf6874dbc06"
+      ]
+    },
+    "evaluation": {
+      "configuration": "256_32_baseline",
+      "question_id": "modelos_coleta",
+      "question": "Quais são os dois modelos de coleta seletiva de recicláveis secos previstos no artigo 1 da Portaria SMSUB 11/2020?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "Não foi possível concluir a consulta. Verifique a configuração e tente novamente.",
+      "error_type": "RuntimeError",
+      "latency_seconds": 1.3222
+    }
+  },
+  {
+    "configuration": "256_32_baseline",
+    "question": {
+      "id": "distancia_pev",
+      "question": "Qual é o raio máximo de distância até um PEV considerado na Portaria SMSUB 11/2020 para áreas rurais ou assentamentos precários de difícil acesso e para os demais casos?",
+      "reference": "O artigo 2 prevê raio máximo de 3 quilômetros em áreas rurais e assentamentos precários de difícil acesso e 400 metros nos demais casos.",
+      "source_ids": [
+        "SP-003"
+      ],
+      "sections": [
+        "Art. 2"
+      ]
+    },
+    "evaluation": {
+      "configuration": "256_32_baseline",
+      "question_id": "distancia_pev",
+      "question": "Qual é o raio máximo de distância até um PEV considerado na Portaria SMSUB 11/2020 para áreas rurais ou assentamentos precários de difícil acesso e para os demais casos?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 2.3926
+    }
+  },
+  {
+    "configuration": "256_32_baseline",
+    "question": {
+      "id": "definicao_volumosos",
+      "question": "Como o artigo 1, inciso II, da Lei 14.803/2008 define resíduos volumosos? Dê dois exemplos presentes no texto.",
+      "reference": "São materiais volumosos não removidos pela coleta municipal rotineira, não caracterizados como industriais; exemplos incluem móveis ou equipamentos domésticos inutilizados e peças de madeira.",
+      "source_ids": [
+        "SP-004"
+      ],
+      "sections": [
+        "Art. 1"
+      ]
+    },
+    "evaluation": {
+      "configuration": "256_32_baseline",
+      "question_id": "definicao_volumosos",
+      "question": "Como o artigo 1, inciso II, da Lei 14.803/2008 define resíduos volumosos? Dê dois exemplos presentes no texto.",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 1.9598
+    }
+  },
+  {
+    "configuration": "256_32_baseline",
+    "question": {
+      "id": "residuos_proibidos",
+      "question": "Quais tipos de resíduos não podem ser descarregados nos Pontos de Entrega segundo o artigo 8, parágrafo 2, da Lei 14.803/2008?",
+      "reference": "Resíduos domiciliares não inertes oriundos do preparo de alimentos, resíduos industriais e resíduos dos serviços de saúde.",
+      "source_ids": [
+        "SP-004"
+      ],
+      "sections": [
+        "Art. 8"
+      ]
+    },
+    "evaluation": {
+      "configuration": "256_32_baseline",
+      "question_id": "residuos_proibidos",
+      "question": "Quais tipos de resíduos não podem ser descarregados nos Pontos de Entrega segundo o artigo 8, parágrafo 2, da Lei 14.803/2008?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 1.4674
+    }
+  },
+  {
+    "configuration": "256_32_baseline",
+    "question": {
+      "id": "logistica_condicao",
+      "question": "A Portaria SMSUB 8/2024 autoriza automaticamente qualquer resíduo de logística reversa em qualquer Ecoponto? Qual condição seu artigo 2 estabelece?",
+      "reference": "Não. O recebimento depende da efetiva assinatura de acordo setorial ou termo de compromisso com o município que trate expressamente dos procedimentos de entrega e coleta nos Ecopontos.",
+      "source_ids": [
+        "SP-005"
+      ],
+      "sections": [
+        "Art. 2"
+      ]
+    },
+    "evaluation": {
+      "configuration": "256_32_baseline",
+      "question_id": "logistica_condicao",
+      "question": "A Portaria SMSUB 8/2024 autoriza automaticamente qualquer resíduo de logística reversa em qualquer Ecoponto? Qual condição seu artigo 2 estabelece?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 2.0849
+    }
+  },
+  {
+    "configuration": "256_32_baseline",
+    "question": {
+      "id": "logistica_custos",
+      "question": "Segundo a Portaria SMSUB 8/2024, artigo 3, parágrafo 3, quem suporta os custos e a responsabilidade pela coleta, tratamento e destinação dos resíduos de logística reversa?",
+      "reference": "Fabricantes, importadores, distribuidores, comerciantes ou associação que os represente suportam os custos e a responsabilidade operacional, civil e ambiental decorrente da operação.",
+      "source_ids": [
+        "SP-005"
+      ],
+      "sections": [
+        "Art. 3"
+      ]
+    },
+    "result": {
+      "query": "Segundo a Portaria SMSUB 8/2024, artigo 3, parágrafo 3, quem suporta os custos e a responsabilidade pela coleta, tratamento e destinação dos resíduos de logística reversa?",
+      "answer": "Não foi possível responder quem suporta os custos e a responsabilidade mencionada, pois os trechos fornecidos da Portaria SMSUB nº 8/2024 contemplam apenas os artigos 1º e 2º, não incluindo o artigo 3º solicitado.\n\nLimitações: O contexto fornecido não contém o artigo 3, parágrafo 3 da Portaria SMSUB nº 8/2024.",
+      "structured": {
+        "status": "sem_base",
+        "claims": [],
+        "message": "Não foi possível responder quem suporta os custos e a responsabilidade mencionada, pois os trechos fornecidos da Portaria SMSUB nº 8/2024 contemplam apenas os artigos 1º e 2º, não incluindo o artigo 3º solicitado.",
+        "limitations": [
+          "O contexto fornecido não contém o artigo 3, parágrafo 3 da Portaria SMSUB nº 8/2024."
+        ]
+      },
+      "chunks": [
+        {
+          "id": "SP-001-256-e3bdcb3d2c4acf29",
+          "text": "III - responsabilizar-se pela coleta, transporte, tratamento e destinação final de resíduos sólidos que ultrapassem a massa ou volume dos serviços essenciais divisíveis, tais como entulhos e grandes objetos, na forma desta lei e da regulamentação;",
+          "metadata": {
+            "sha256": "89d3e1aa12f6f6a29c1b9cd858a2f1f2fe77e80fafe499dfb41da5a504d6d579",
+            "tipo": "norma",
+            "ano": 2002,
+            "jurisdicao": "sao_paulo_capital",
+            "data_publicacao": "2002-12-30",
+            "title": "Lei nº 13.478/2002 — disposições sobre limpeza urbana",
+            "start_index": 294,
+            "chunk_id": "SP-001-256-e3bdcb3d2c4acf29",
+            "section": "Art. 6",
+            "url": "https://legislacao.prefeitura.sp.gov.br/lei-13478-de-30-de-dezembro-de-2002",
+            "data_coleta": "2026-10-10",
+            "categoria": "limpeza_urbana",
+            "source_id": "SP-001",
+            "chunk_index": 23
+          },
+          "distance": 0.1957346796989441,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-005-256-4f37b09c11b2a200",
+          "text": ". 2º Os resíduos tratados nesta Portaria só poderão ser recebidos nos Ecopontos após a efetiva assinatura do Acordo Setorial de Logística Reversa ou Termo de Compromisso firmados com o Município de São Paulo pelos fabricantes, importadores, distribuidores,",
+          "metadata": {
+            "chunk_index": 162,
+            "data_publicacao": "2024-01-22",
+            "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+            "sha256": "9f8314b3eaefbfed715edb680db010aeb0e6fb3ab3bc7339249e3a774217cb93",
+            "tipo": "norma",
+            "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+            "categoria": "ecopontos",
+            "section": "Art. 2",
+            "ano": 2024,
+            "data_coleta": "2026-10-10",
+            "source_id": "SP-005",
+            "start_index": 11,
+            "jurisdicao": "sao_paulo_capital",
+            "chunk_id": "SP-005-256-4f37b09c11b2a200"
+          },
+          "distance": 0.2183648943901062,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-001-256-815b53efed825049",
+          "text": "IV - responsabilizar-se pela coleta, transporte, tratamento e destinação final de animais mortos de sua propriedade, na forma desta lei e da regulamentação;",
+          "metadata": {
+            "url": "https://legislacao.prefeitura.sp.gov.br/lei-13478-de-30-de-dezembro-de-2002",
+            "sha256": "89d3e1aa12f6f6a29c1b9cd858a2f1f2fe77e80fafe499dfb41da5a504d6d579",
+            "title": "Lei nº 13.478/2002 — disposições sobre limpeza urbana",
+            "start_index": 543,
+            "chunk_index": 24,
+            "section": "Art. 6",
+            "source_id": "SP-001",
+            "tipo": "norma",
+            "jurisdicao": "sao_paulo_capital",
+            "chunk_id": "SP-001-256-815b53efed825049",
+            "categoria": "limpeza_urbana",
+            "ano": 2002,
+            "data_coleta": "2026-10-10",
+            "data_publicacao": "2002-12-30"
+          },
+          "distance": 0.2421104907989502,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-005-256-7b6e3a779091874a",
+          "text": "§ 1º Entende-se por Acordo Setorial de Logística Reversa o ato de natureza contratual firmado entre o poder público municipal e fabricantes, importadores, distribuidores ou comerciantes, tendo em vista a implantação da responsabilidade compartilhada pelo",
+          "metadata": {
+            "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+            "data_coleta": "2026-10-10",
+            "sha256": "9f8314b3eaefbfed715edb680db010aeb0e6fb3ab3bc7339249e3a774217cb93",
+            "ano": 2024,
+            "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+            "source_id": "SP-005",
+            "chunk_index": 156,
+            "start_index": 349,
+            "chunk_id": "SP-005-256-7b6e3a779091874a",
+            "data_publicacao": "2024-01-22",
+            "jurisdicao": "sao_paulo_capital",
+            "categoria": "ecopontos",
+            "tipo": "norma",
+            "section": "Art. 1"
+          },
+          "distance": 0.2579119801521301,
+          "rerank_score": null
+        }
+      ],
+      "sources": [],
+      "collection": "residuos_sp_256_6b548ce32101da13",
+      "base_date": "2026-10-10",
+      "input_tokens": 1395,
+      "ranking_before": [
+        "SP-001-256-e3bdcb3d2c4acf29",
+        "SP-005-256-4f37b09c11b2a200",
+        "SP-001-256-815b53efed825049",
+        "SP-005-256-7b6e3a779091874a",
+        "SP-005-256-4d6bb980f27d137c",
+        "SP-005-256-e7e9a7f0f28ce529",
+        "SP-005-256-b1f0f43b3a8c4c4b",
+        "SP-005-256-04ed04c13cc3efd1"
+      ],
+      "ranking_after": [
+        "SP-001-256-e3bdcb3d2c4acf29",
+        "SP-005-256-4f37b09c11b2a200",
+        "SP-001-256-815b53efed825049",
+        "SP-005-256-7b6e3a779091874a",
+        "SP-005-256-4d6bb980f27d137c",
+        "SP-005-256-e7e9a7f0f28ce529",
+        "SP-005-256-b1f0f43b3a8c4c4b",
+        "SP-005-256-04ed04c13cc3efd1"
+      ]
+    },
+    "evaluation": {
+      "configuration": "256_32_baseline",
+      "question_id": "logistica_custos",
+      "question": "Segundo a Portaria SMSUB 8/2024, artigo 3, parágrafo 3, quem suporta os custos e a responsabilidade pela coleta, tratamento e destinação dos resíduos de logística reversa?",
+      "status": "ok",
+      "faithfulness": 0.3333333333333333,
+      "answer_relevancy": 0.0,
+      "expected_source_found": true,
+      "error": null,
+      "latency_seconds": 5.2231
+    }
+  },
+  {
+    "configuration": "256_32_baseline",
+    "question": {
+      "id": "direito_informacao",
+      "question": "Quais direitos de acesso à informação e resposta a reclamações são previstos para o usuário dos serviços de limpeza urbana no artigo 5 da Lei 13.478/2002?",
+      "reference": "O artigo 5 prevê acesso às informações sobre os serviços de limpeza urbana e direito de resposta às reclamações dirigidas aos operadores ou ao órgão regulador.",
+      "source_ids": [
+        "SP-001"
+      ],
+      "sections": [
+        "Art. 5"
+      ]
+    },
+    "result": {
+      "query": "Quais direitos de acesso à informação e resposta a reclamações são previstos para o usuário dos serviços de limpeza urbana no artigo 5 da Lei 13.478/2002?",
+      "answer": "Os trechos fornecidos do Artigo 5 da Lei nº 13.478/2002 mencionam direitos do munícipe relacionados a ter uma cidade limpa, ao acesso a serviços prestados em regime privado e à não discriminação no acesso e prestação dos serviços, mas não citam direitos específicos de acesso à informação ou resposta a reclamações.\n\nLimitações: O recorte do Artigo 5 disponível não contém disposições sobre acesso à informação ou canais de resposta a reclamações.",
+      "structured": {
+        "status": "sem_base",
+        "claims": [],
+        "message": "Os trechos fornecidos do Artigo 5 da Lei nº 13.478/2002 mencionam direitos do munícipe relacionados a ter uma cidade limpa, ao acesso a serviços prestados em regime privado e à não discriminação no acesso e prestação dos serviços, mas não citam direitos específicos de acesso à informação ou resposta a reclamações.",
+        "limitations": [
+          "O recorte do Artigo 5 disponível não contém disposições sobre acesso à informação ou canais de resposta a reclamações."
+        ]
+      },
+      "chunks": [
+        {
+          "id": "SP-001-256-ed19406295ba82f7",
+          "text": "III - ao acesso aos serviços de limpeza urbana prestados em regime privado;\n\nIV - de não ser discriminado quanto às condições de acesso e prestação dos serviços de limpeza urbana, respeitada a disciplina geral de prestação dos serviços;",
+          "metadata": {
+            "jurisdicao": "sao_paulo_capital",
+            "start_index": 280,
+            "title": "Lei nº 13.478/2002 — disposições sobre limpeza urbana",
+            "section": "Art. 5",
+            "ano": 2002,
+            "source_id": "SP-001",
+            "categoria": "limpeza_urbana",
+            "chunk_id": "SP-001-256-ed19406295ba82f7",
+            "data_coleta": "2026-10-10",
+            "url": "https://legislacao.prefeitura.sp.gov.br/lei-13478-de-30-de-dezembro-de-2002",
+            "sha256": "89d3e1aa12f6f6a29c1b9cd858a2f1f2fe77e80fafe499dfb41da5a504d6d579",
+            "data_publicacao": "2002-12-30",
+            "chunk_index": 18,
+            "tipo": "norma"
+          },
+          "distance": 0.19944125413894653,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-004-256-82820a8c42263db2",
+          "text": "I - aos princípios e diretrizes do Sistema de Limpeza Urbana do Município de São Paulo, instituído pela Lei nº 13.478, de 30 de dezembro de 2002 ;",
+          "metadata": {
+            "section": "Art. 2",
+            "chunk_id": "SP-004-256-82820a8c42263db2",
+            "categoria": "descarte",
+            "tipo": "norma",
+            "data_publicacao": "2008-06-26",
+            "ano": 2008,
+            "data_coleta": "2026-10-10",
+            "title": "Lei nº 14.803/2008 — resíduos da construção civil e volumosos",
+            "source_id": "SP-004",
+            "chunk_index": 104,
+            "sha256": "f281a57994b442b4692f27fc07a966e476aa58fa37e7ae989c7018803c4c9a9c",
+            "url": "https://legislacao.prefeitura.sp.gov.br/lei-14803-de-26-de-junho-de-2008",
+            "start_index": 126,
+            "jurisdicao": "sao_paulo_capital"
+          },
+          "distance": 0.21471846103668213,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-004-256-8a46986a8937b56e",
+          "text": "§ 5º Nos termos da Lei nº 13.478, de 30 de dezembro de 2002 , o órgão municipal de limpeza urbana prestará o apoio técnico necessário às Subprefeituras, promovendo a uniformização dos procedimentos e padrões adotados.",
+          "metadata": {
+            "chunk_index": 147,
+            "start_index": 1580,
+            "source_id": "SP-004",
+            "ano": 2008,
+            "sha256": "f281a57994b442b4692f27fc07a966e476aa58fa37e7ae989c7018803c4c9a9c",
+            "url": "https://legislacao.prefeitura.sp.gov.br/lei-14803-de-26-de-junho-de-2008",
+            "title": "Lei nº 14.803/2008 — resíduos da construção civil e volumosos",
+            "jurisdicao": "sao_paulo_capital",
+            "data_publicacao": "2008-06-26",
+            "categoria": "descarte",
+            "tipo": "norma",
+            "section": "Art. 8",
+            "data_coleta": "2026-10-10",
+            "chunk_id": "SP-004-256-8a46986a8937b56e"
+          },
+          "distance": 0.22250795364379883,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-001-256-fdeba21294e34dfa",
+          "text": "Art. 5\n\nArt. 5º - Como usuário dos serviços de limpeza urbana, o munícipe tem direito:\n\nI - a uma cidade limpa;",
+          "metadata": {
+            "start_index": 0,
+            "section": "Art. 5",
+            "data_publicacao": "2002-12-30",
+            "url": "https://legislacao.prefeitura.sp.gov.br/lei-13478-de-30-de-dezembro-de-2002",
+            "chunk_index": 16,
+            "ano": 2002,
+            "source_id": "SP-001",
+            "title": "Lei nº 13.478/2002 — disposições sobre limpeza urbana",
+            "chunk_id": "SP-001-256-fdeba21294e34dfa",
+            "data_coleta": "2026-10-10",
+            "jurisdicao": "sao_paulo_capital",
+            "tipo": "norma",
+            "sha256": "89d3e1aa12f6f6a29c1b9cd858a2f1f2fe77e80fafe499dfb41da5a504d6d579",
+            "categoria": "limpeza_urbana"
+          },
+          "distance": 0.22611355781555176,
+          "rerank_score": null
+        }
+      ],
+      "sources": [],
+      "collection": "residuos_sp_256_6b548ce32101da13",
+      "base_date": "2026-10-10",
+      "input_tokens": 1353,
+      "ranking_before": [
+        "SP-001-256-ed19406295ba82f7",
+        "SP-004-256-82820a8c42263db2",
+        "SP-004-256-8a46986a8937b56e",
+        "SP-001-256-fdeba21294e34dfa",
+        "SP-001-256-82da9bf6874dbc06",
+        "SP-001-256-6fcd5a88927b0be9",
+        "SP-001-256-48f7df53522469b1",
+        "SP-001-256-8c77bb4698057422"
+      ],
+      "ranking_after": [
+        "SP-001-256-ed19406295ba82f7",
+        "SP-004-256-82820a8c42263db2",
+        "SP-004-256-8a46986a8937b56e",
+        "SP-001-256-fdeba21294e34dfa",
+        "SP-001-256-82da9bf6874dbc06",
+        "SP-001-256-6fcd5a88927b0be9",
+        "SP-001-256-48f7df53522469b1",
+        "SP-001-256-8c77bb4698057422"
+      ]
+    },
+    "evaluation": {
+      "configuration": "256_32_baseline",
+      "question_id": "direito_informacao",
+      "question": "Quais direitos de acesso à informação e resposta a reclamações são previstos para o usuário dos serviços de limpeza urbana no artigo 5 da Lei 13.478/2002?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "Não foi possível concluir a consulta. Verifique a configuração e tente novamente.",
+      "error_type": "RuntimeError",
+      "latency_seconds": 1.4785
+    }
+  },
+  {
+    "configuration": "512_64_baseline",
+    "question": {
+      "id": "limite_descarga",
+      "question": "Segundo o Decreto 55.113/2014, qual é o limite de resíduos por descarga em um Ecoponto?",
+      "reference": "O artigo 3 limita a recepção a 1 m³ por descarga, para resíduos entregues pelos munícipes ou pequenos transportadores contratados pelos geradores.",
+      "source_ids": [
+        "SP-002"
+      ],
+      "sections": [
+        "Art. 3"
+      ]
+    },
+    "result": {
+      "query": "Segundo o Decreto 55.113/2014, qual é o limite de resíduos por descarga em um Ecoponto?",
+      "answer": "De acordo com o Decreto nº 55.113/2014, a recepção de resíduos entregues por munícipes ou pequenos transportadores contratados pelos geradores nos Ecopontos é limitada a 1m³ (um metro cúbico) por descarga.\n\nFonte: [SP-002 · Art. 3 · SP-002-512-9b254c142abc011b](https://legislacao.prefeitura.sp.gov.br/decreto-55113-de-15-de-maio-de-2014/consolidado)",
+      "structured": {
+        "status": "respondida",
+        "claims": [
+          {
+            "text": "De acordo com o Decreto nº 55.113/2014, a recepção de resíduos entregues por munícipes ou pequenos transportadores contratados pelos geradores nos Ecopontos é limitada a 1m³ (um metro cúbico) por descarga.",
+            "chunk_ids": [
+              "SP-002-512-9b254c142abc011b"
+            ]
+          }
+        ],
+        "message": "",
+        "limitations": []
+      },
+      "chunks": [
+        {
+          "id": "SP-005-512-ceae4761df4f6866",
+          "text": "Art. 5\n\nArt. 5º O recebimento dos resíduos previstos nesta Portaria deverá ocorrer sem prejuízo das funções dos Ecopontos previstas na Lei Municipal nº 14.803, 26 de junho de 2008 , e no Decreto Municipal nº 55.113, de 15 de maio de 2014 , devendo ser observado os limites de volume permitidos para descarga.",
+          "metadata": {
+            "source_id": "SP-005",
+            "chunk_index": 86,
+            "categoria": "ecopontos",
+            "section": "Art. 5",
+            "data_publicacao": "2024-01-22",
+            "sha256": "9f8314b3eaefbfed715edb680db010aeb0e6fb3ab3bc7339249e3a774217cb93",
+            "ano": 2024,
+            "jurisdicao": "sao_paulo_capital",
+            "data_coleta": "2026-10-10",
+            "chunk_id": "SP-005-512-ceae4761df4f6866",
+            "start_index": 0,
+            "tipo": "norma",
+            "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+            "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos"
+          },
+          "distance": 0.195439875125885,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-004-512-ba157626a2bd1323",
+          "text": "§ 1º Os Pontos de Entrega receberão descargas de resíduos de construção e resíduos volumosos, definidos em decreto regulamentar, para triagem obrigatória, posterior transbordo e destinação adequada dos diversos componentes.(Redação dada pela Lei nº 18.299/2025 )\n\n§ 2º Não será admitida nos Pontos de Entrega a descarga de resíduos domiciliares não-inertes oriundos do preparo de alimentos, resíduos industriais e resíduos dos serviços de saúde.",
+          "metadata": {
+            "ano": 2008,
+            "section": "Art. 8",
+            "sha256": "f281a57994b442b4692f27fc07a966e476aa58fa37e7ae989c7018803c4c9a9c",
+            "categoria": "descarte",
+            "start_index": 739,
+            "title": "Lei nº 14.803/2008 — resíduos da construção civil e volumosos",
+            "chunk_index": 72,
+            "jurisdicao": "sao_paulo_capital",
+            "data_coleta": "2026-10-10",
+            "tipo": "norma",
+            "url": "https://legislacao.prefeitura.sp.gov.br/lei-14803-de-26-de-junho-de-2008",
+            "chunk_id": "SP-004-512-ba157626a2bd1323",
+            "data_publicacao": "2008-06-26",
+            "source_id": "SP-004"
+          },
+          "distance": 0.23498308658599854,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-002-512-9b254c142abc011b",
+          "text": "Art. 3\n\nArt. 3º A recepção dos resíduos gerados e entregues pelos munícipes ou entregues por pequenos transportadores diretamente contratados pelos geradores nos Ecopontos será limitada a 1m³ (um metro cúbico) por descarga.\n\nParágrafo único. Os Ecopontos serão utilizados para o recebimento de resíduos previamente segregados, visando sua posterior coleta diferenciada e remoção para adequada destinação.",
+          "metadata": {
+            "title": "Decreto nº 55.113/2014 — implantação de Ecopontos",
+            "ano": 2014,
+            "categoria": "ecopontos",
+            "url": "https://legislacao.prefeitura.sp.gov.br/decreto-55113-de-15-de-maio-de-2014/consolidado",
+            "source_id": "SP-002",
+            "data_coleta": "2026-10-10",
+            "tipo": "norma",
+            "start_index": 0,
+            "jurisdicao": "sao_paulo_capital",
+            "section": "Art. 3",
+            "chunk_index": 24,
+            "data_publicacao": "2014-05-15",
+            "chunk_id": "SP-002-512-9b254c142abc011b",
+            "sha256": "9f03f56dbc286b6d55f48edfaf0353c19af520c0b591daccfba2cc817330f4fc"
+          },
+          "distance": 0.23773813247680664,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-005-512-ddb7d18ad1a4dc14",
+          "text": "Art. 1\n\nArt. 1º Fica autorizado, nos termos desta Portaria, o recebimento nos Ecopontos, implantados conforme o Decreto nº 55.113 de 15 de maio de 2014 , de resíduos sólidos entregues por munícipes ou pequenos transportadores que sejam objeto de Acordos Setoriais de Logística Reversa ou Termo de Compromisso firmados com o Município de São Paulo.",
+          "metadata": {
+            "categoria": "ecopontos",
+            "start_index": 0,
+            "section": "Art. 1",
+            "chunk_index": 76,
+            "data_publicacao": "2024-01-22",
+            "tipo": "norma",
+            "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+            "source_id": "SP-005",
+            "data_coleta": "2026-10-10",
+            "sha256": "9f8314b3eaefbfed715edb680db010aeb0e6fb3ab3bc7339249e3a774217cb93",
+            "chunk_id": "SP-005-512-ddb7d18ad1a4dc14",
+            "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+            "ano": 2024,
+            "jurisdicao": "sao_paulo_capital"
+          },
+          "distance": 0.2586115002632141,
+          "rerank_score": null
+        }
+      ],
+      "sources": [
+        {
+          "chunk_id": "SP-002-512-9b254c142abc011b",
+          "document_id": "SP-002",
+          "title": "Decreto nº 55.113/2014 — implantação de Ecopontos",
+          "section": "Art. 3",
+          "url": "https://legislacao.prefeitura.sp.gov.br/decreto-55113-de-15-de-maio-de-2014/consolidado",
+          "collected_at": "2026-10-10"
+        }
+      ],
+      "collection": "residuos_sp_512_a7f2adde70e62668",
+      "base_date": "2026-10-10",
+      "input_tokens": 1585,
+      "ranking_before": [
+        "SP-005-512-ceae4761df4f6866",
+        "SP-004-512-ba157626a2bd1323",
+        "SP-002-512-9b254c142abc011b",
+        "SP-005-512-ddb7d18ad1a4dc14",
+        "SP-002-512-f35f4cfa67e18a9b",
+        "SP-004-512-09b3de5a8d47dfe1",
+        "SP-004-512-f7c5c793914ad8f6",
+        "SP-004-512-6425014869f3a2f3"
+      ],
+      "ranking_after": [
+        "SP-005-512-ceae4761df4f6866",
+        "SP-004-512-ba157626a2bd1323",
+        "SP-002-512-9b254c142abc011b",
+        "SP-005-512-ddb7d18ad1a4dc14",
+        "SP-002-512-f35f4cfa67e18a9b",
+        "SP-004-512-09b3de5a8d47dfe1",
+        "SP-004-512-f7c5c793914ad8f6",
+        "SP-004-512-6425014869f3a2f3"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_baseline",
+      "question_id": "limite_descarga",
+      "question": "Segundo o Decreto 55.113/2014, qual é o limite de resíduos por descarga em um Ecoponto?",
+      "status": "ok",
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.9775419711077453,
+      "expected_source_found": true,
+      "error": null,
+      "latency_seconds": 6.2459
+    }
+  },
+  {
+    "configuration": "512_64_baseline",
+    "question": {
+      "id": "capacidade_e_descarga",
+      "question": "No Decreto 55.113/2014, a capacidade de 150 m³ do Ecoponto significa que um cidadão pode entregar 150 m³ de uma vez? Explique a diferença.",
+      "reference": "Não. O artigo 2 descreve a capacidade de recebimento de até 150 m³ do equipamento público, enquanto o artigo 3 limita cada descarga a 1 m³.",
+      "source_ids": [
+        "SP-002"
+      ],
+      "sections": [
+        "Art. 2",
+        "Art. 3"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_baseline",
+      "question_id": "capacidade_e_descarga",
+      "question": "No Decreto 55.113/2014, a capacidade de 150 m³ do Ecoponto significa que um cidadão pode entregar 150 m³ de uma vez? Explique a diferença.",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 2.2696
+    }
+  },
+  {
+    "configuration": "512_64_baseline",
+    "question": {
+      "id": "segregacao",
+      "question": "Segundo o parágrafo único do artigo 3 do Decreto 55.113/2014, os resíduos entregues aos Ecopontos devem estar previamente segregados? Para quê?",
+      "reference": "Sim. Os resíduos devem ser previamente segregados para posterior coleta diferenciada e remoção para adequada destinação.",
+      "source_ids": [
+        "SP-002"
+      ],
+      "sections": [
+        "Art. 3"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_baseline",
+      "question_id": "segregacao",
+      "question": "Segundo o parágrafo único do artigo 3 do Decreto 55.113/2014, os resíduos entregues aos Ecopontos devem estar previamente segregados? Para quê?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 1.7358
+    }
+  },
+  {
+    "configuration": "512_64_baseline",
+    "question": {
+      "id": "modelos_coleta",
+      "question": "Quais são os dois modelos de coleta seletiva de recicláveis secos previstos no artigo 1 da Portaria SMSUB 11/2020?",
+      "reference": "Coleta porta a porta por caminhões e Pontos de Entrega Voluntária (PEVs), disponibilizados conforme as características de ocupação do solo de cada região.",
+      "source_ids": [
+        "SP-003"
+      ],
+      "sections": [
+        "Art. 1"
+      ]
+    },
+    "result": {
+      "query": "Quais são os dois modelos de coleta seletiva de recicláveis secos previstos no artigo 1 da Portaria SMSUB 11/2020?",
+      "answer": "Os modelos de serviços de coleta seletiva de resíduos recicláveis secos são a coleta porta a porta, realizada por caminhões de coleta, e os Pontos de Entrega Voluntária (PEV), que são disponibilizados conforme as características de ocupação do solo de cada região.\n\nFonte: [SP-003 · Art. 1 · SP-003-512-7ce046a15f4879e2](https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-11-de-7-de-fevereiro-de-2020/consolidado)",
+      "structured": {
+        "status": "respondida",
+        "claims": [
+          {
+            "text": "Os modelos de serviços de coleta seletiva de resíduos recicláveis secos são a coleta porta a porta, realizada por caminhões de coleta, e os Pontos de Entrega Voluntária (PEV), que são disponibilizados conforme as características de ocupação do solo de cada região.",
+            "chunk_ids": [
+              "SP-003-512-7ce046a15f4879e2"
+            ]
+          }
+        ],
+        "message": "",
+        "limitations": []
+      },
+      "chunks": [
+        {
+          "id": "SP-003-512-7ce046a15f4879e2",
+          "text": "Art. 1\n\nArt. 1º - São modelos de serviços de coleta seletiva de resíduos recicláveis secos:\n\nI – Coleta porta a porta, através de caminhões de coleta e;\n\nII – Pontos de Entrega Voluntária (PEV), disponibilizados de acordo com as características de ocupação do solo de cada região.",
+          "metadata": {
+            "data_publicacao": "2020-02-07",
+            "chunk_index": 29,
+            "source_id": "SP-003",
+            "title": "Portaria SMSUB nº 11/2020 — coleta seletiva de recicláveis secos",
+            "chunk_id": "SP-003-512-7ce046a15f4879e2",
+            "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-11-de-7-de-fevereiro-de-2020/consolidado",
+            "start_index": 0,
+            "jurisdicao": "sao_paulo_capital",
+            "sha256": "18f90c28303a5f502e934b6805f13ca501f5a80063730a4477ddfaa103f87191",
+            "categoria": "coleta_seletiva",
+            "section": "Art. 1",
+            "ano": 2020,
+            "tipo": "norma",
+            "data_coleta": "2026-10-10"
+          },
+          "distance": 0.23223072290420532,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-005-512-ceae4761df4f6866",
+          "text": "Art. 5\n\nArt. 5º O recebimento dos resíduos previstos nesta Portaria deverá ocorrer sem prejuízo das funções dos Ecopontos previstas na Lei Municipal nº 14.803, 26 de junho de 2008 , e no Decreto Municipal nº 55.113, de 15 de maio de 2014 , devendo ser observado os limites de volume permitidos para descarga.",
+          "metadata": {
+            "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+            "source_id": "SP-005",
+            "sha256": "9f8314b3eaefbfed715edb680db010aeb0e6fb3ab3bc7339249e3a774217cb93",
+            "tipo": "norma",
+            "chunk_id": "SP-005-512-ceae4761df4f6866",
+            "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+            "categoria": "ecopontos",
+            "section": "Art. 5",
+            "chunk_index": 86,
+            "data_coleta": "2026-10-10",
+            "start_index": 0,
+            "jurisdicao": "sao_paulo_capital",
+            "data_publicacao": "2024-01-22",
+            "ano": 2024
+          },
+          "distance": 0.32048356533050537,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-003-512-64b6605fe873d202",
+          "text": "Art. 2\n\nArt. 2º - Para fins de universalização da coleta seletiva, será considerado atendido o gerador de resíduos:\n\nI – Que tiver sua rua atendida pelo serviço de coleta porta a porta e;\n\nII – Cuja distância com relação a um Ponto de Entrega Voluntária (PEV) seja de um raio máximo de:\n\n1. 3 quilômetros em áreas rurais e assentamentos precários de difícil acesso e;\n\n2. 400 metros, nos demais casos.",
+          "metadata": {
+            "data_publicacao": "2020-02-07",
+            "sha256": "18f90c28303a5f502e934b6805f13ca501f5a80063730a4477ddfaa103f87191",
+            "start_index": 0,
+            "section": "Art. 2",
+            "jurisdicao": "sao_paulo_capital",
+            "source_id": "SP-003",
+            "chunk_index": 30,
+            "categoria": "coleta_seletiva",
+            "data_coleta": "2026-10-10",
+            "ano": 2020,
+            "title": "Portaria SMSUB nº 11/2020 — coleta seletiva de recicláveis secos",
+            "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-11-de-7-de-fevereiro-de-2020/consolidado",
+            "tipo": "norma",
+            "chunk_id": "SP-003-512-64b6605fe873d202"
+          },
+          "distance": 0.3334789276123047,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-004-512-5c5d404c6afb880b",
+          "text": "§ 3º Os Pontos de Entrega, sem comprometimento de suas funções originais, poderão ser utilizados de forma compartilhada por grupos locais que desenvolvam ações de coleta seletiva de resíduos secos domiciliares recicláveis.\n\n§ 4º O número e a localização dos Pontos de Entrega serão definidos e readequados pelas Subprefeituras, visando soluções eficazes de captação e destinação dos resíduos.",
+          "metadata": {
+            "jurisdicao": "sao_paulo_capital",
+            "categoria": "descarte",
+            "data_coleta": "2026-10-10",
+            "source_id": "SP-004",
+            "tipo": "norma",
+            "ano": 2008,
+            "section": "Art. 8",
+            "url": "https://legislacao.prefeitura.sp.gov.br/lei-14803-de-26-de-junho-de-2008",
+            "start_index": 1186,
+            "data_publicacao": "2008-06-26",
+            "chunk_id": "SP-004-512-5c5d404c6afb880b",
+            "title": "Lei nº 14.803/2008 — resíduos da construção civil e volumosos",
+            "chunk_index": 73,
+            "sha256": "f281a57994b442b4692f27fc07a966e476aa58fa37e7ae989c7018803c4c9a9c"
+          },
+          "distance": 0.33667445182800293,
+          "rerank_score": null
+        }
+      ],
+      "sources": [
+        {
+          "chunk_id": "SP-003-512-7ce046a15f4879e2",
+          "document_id": "SP-003",
+          "title": "Portaria SMSUB nº 11/2020 — coleta seletiva de recicláveis secos",
+          "section": "Art. 1",
+          "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-11-de-7-de-fevereiro-de-2020/consolidado",
+          "collected_at": "2026-10-10"
+        }
+      ],
+      "collection": "residuos_sp_512_a7f2adde70e62668",
+      "base_date": "2026-10-10",
+      "input_tokens": 1562,
+      "ranking_before": [
+        "SP-003-512-7ce046a15f4879e2",
+        "SP-005-512-ceae4761df4f6866",
+        "SP-003-512-64b6605fe873d202",
+        "SP-004-512-5c5d404c6afb880b",
+        "SP-001-512-ac67a6c0e4aaf46a",
+        "SP-005-512-ddb7d18ad1a4dc14",
+        "SP-004-512-d362d090d7ba01d7",
+        "SP-004-512-8a35b4b10f5539f2"
+      ],
+      "ranking_after": [
+        "SP-003-512-7ce046a15f4879e2",
+        "SP-005-512-ceae4761df4f6866",
+        "SP-003-512-64b6605fe873d202",
+        "SP-004-512-5c5d404c6afb880b",
+        "SP-001-512-ac67a6c0e4aaf46a",
+        "SP-005-512-ddb7d18ad1a4dc14",
+        "SP-004-512-d362d090d7ba01d7",
+        "SP-004-512-8a35b4b10f5539f2"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_baseline",
+      "question_id": "modelos_coleta",
+      "question": "Quais são os dois modelos de coleta seletiva de recicláveis secos previstos no artigo 1 da Portaria SMSUB 11/2020?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "Não foi possível concluir a consulta. Verifique a configuração e tente novamente.",
+      "error_type": "RuntimeError",
+      "latency_seconds": 1.2499
+    }
+  },
+  {
+    "configuration": "512_64_baseline",
+    "question": {
+      "id": "distancia_pev",
+      "question": "Qual é o raio máximo de distância até um PEV considerado na Portaria SMSUB 11/2020 para áreas rurais ou assentamentos precários de difícil acesso e para os demais casos?",
+      "reference": "O artigo 2 prevê raio máximo de 3 quilômetros em áreas rurais e assentamentos precários de difícil acesso e 400 metros nos demais casos.",
+      "source_ids": [
+        "SP-003"
+      ],
+      "sections": [
+        "Art. 2"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_baseline",
+      "question_id": "distancia_pev",
+      "question": "Qual é o raio máximo de distância até um PEV considerado na Portaria SMSUB 11/2020 para áreas rurais ou assentamentos precários de difícil acesso e para os demais casos?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 2.0153
+    }
+  },
+  {
+    "configuration": "512_64_baseline",
+    "question": {
+      "id": "definicao_volumosos",
+      "question": "Como o artigo 1, inciso II, da Lei 14.803/2008 define resíduos volumosos? Dê dois exemplos presentes no texto.",
+      "reference": "São materiais volumosos não removidos pela coleta municipal rotineira, não caracterizados como industriais; exemplos incluem móveis ou equipamentos domésticos inutilizados e peças de madeira.",
+      "source_ids": [
+        "SP-004"
+      ],
+      "sections": [
+        "Art. 1"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_baseline",
+      "question_id": "definicao_volumosos",
+      "question": "Como o artigo 1, inciso II, da Lei 14.803/2008 define resíduos volumosos? Dê dois exemplos presentes no texto.",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 2.1429
+    }
+  },
+  {
+    "configuration": "512_64_baseline",
+    "question": {
+      "id": "residuos_proibidos",
+      "question": "Quais tipos de resíduos não podem ser descarregados nos Pontos de Entrega segundo o artigo 8, parágrafo 2, da Lei 14.803/2008?",
+      "reference": "Resíduos domiciliares não inertes oriundos do preparo de alimentos, resíduos industriais e resíduos dos serviços de saúde.",
+      "source_ids": [
+        "SP-004"
+      ],
+      "sections": [
+        "Art. 8"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_baseline",
+      "question_id": "residuos_proibidos",
+      "question": "Quais tipos de resíduos não podem ser descarregados nos Pontos de Entrega segundo o artigo 8, parágrafo 2, da Lei 14.803/2008?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 1.6364
+    }
+  },
+  {
+    "configuration": "512_64_baseline",
+    "question": {
+      "id": "logistica_condicao",
+      "question": "A Portaria SMSUB 8/2024 autoriza automaticamente qualquer resíduo de logística reversa em qualquer Ecoponto? Qual condição seu artigo 2 estabelece?",
+      "reference": "Não. O recebimento depende da efetiva assinatura de acordo setorial ou termo de compromisso com o município que trate expressamente dos procedimentos de entrega e coleta nos Ecopontos.",
+      "source_ids": [
+        "SP-005"
+      ],
+      "sections": [
+        "Art. 2"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_baseline",
+      "question_id": "logistica_condicao",
+      "question": "A Portaria SMSUB 8/2024 autoriza automaticamente qualquer resíduo de logística reversa em qualquer Ecoponto? Qual condição seu artigo 2 estabelece?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 2.6934
+    }
+  },
+  {
+    "configuration": "512_64_baseline",
+    "question": {
+      "id": "logistica_custos",
+      "question": "Segundo a Portaria SMSUB 8/2024, artigo 3, parágrafo 3, quem suporta os custos e a responsabilidade pela coleta, tratamento e destinação dos resíduos de logística reversa?",
+      "reference": "Fabricantes, importadores, distribuidores, comerciantes ou associação que os represente suportam os custos e a responsabilidade operacional, civil e ambiental decorrente da operação.",
+      "source_ids": [
+        "SP-005"
+      ],
+      "sections": [
+        "Art. 3"
+      ]
+    },
+    "result": {
+      "query": "Segundo a Portaria SMSUB 8/2024, artigo 3, parágrafo 3, quem suporta os custos e a responsabilidade pela coleta, tratamento e destinação dos resíduos de logística reversa?",
+      "answer": "Não foi possível localizar as informações solicitadas, pois os trechos fornecidos da Portaria SMSUB nº 8/2024 contemplam apenas os artigos 1º e 2º, não incluindo o artigo 3º ou seus parágrafos.\n\nLimitações: A base de dados fornecida contém apenas recortes parciais da Portaria SMSUB nº 8/2024.",
+      "structured": {
+        "status": "sem_base",
+        "claims": [],
+        "message": "Não foi possível localizar as informações solicitadas, pois os trechos fornecidos da Portaria SMSUB nº 8/2024 contemplam apenas os artigos 1º e 2º, não incluindo o artigo 3º ou seus parágrafos.",
+        "limitations": [
+          "A base de dados fornecida contém apenas recortes parciais da Portaria SMSUB nº 8/2024."
+        ]
+      },
+      "chunks": [
+        {
+          "id": "SP-001-512-4e91d790c1a71bf1",
+          "text": "III - responsabilizar-se pela coleta, transporte, tratamento e destinação final de resíduos sólidos que ultrapassem a massa ou volume dos serviços essenciais divisíveis, tais como entulhos e grandes objetos, na forma desta lei e da regulamentação;\n\nIV - responsabilizar-se pela coleta, transporte, tratamento e destinação final de animais mortos de sua propriedade, na forma desta lei e da regulamentação;",
+          "metadata": {
+            "source_id": "SP-001",
+            "chunk_index": 13,
+            "url": "https://legislacao.prefeitura.sp.gov.br/lei-13478-de-30-de-dezembro-de-2002",
+            "sha256": "89d3e1aa12f6f6a29c1b9cd858a2f1f2fe77e80fafe499dfb41da5a504d6d579",
+            "categoria": "limpeza_urbana",
+            "start_index": 294,
+            "ano": 2002,
+            "tipo": "norma",
+            "data_publicacao": "2002-12-30",
+            "jurisdicao": "sao_paulo_capital",
+            "title": "Lei nº 13.478/2002 — disposições sobre limpeza urbana",
+            "data_coleta": "2026-10-10",
+            "section": "Art. 6",
+            "chunk_id": "SP-001-512-4e91d790c1a71bf1"
+          },
+          "distance": 0.2275260090827942,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-005-512-ddb7d18ad1a4dc14",
+          "text": "Art. 1\n\nArt. 1º Fica autorizado, nos termos desta Portaria, o recebimento nos Ecopontos, implantados conforme o Decreto nº 55.113 de 15 de maio de 2014 , de resíduos sólidos entregues por munícipes ou pequenos transportadores que sejam objeto de Acordos Setoriais de Logística Reversa ou Termo de Compromisso firmados com o Município de São Paulo.",
+          "metadata": {
+            "jurisdicao": "sao_paulo_capital",
+            "source_id": "SP-005",
+            "tipo": "norma",
+            "ano": 2024,
+            "data_coleta": "2026-10-10",
+            "categoria": "ecopontos",
+            "data_publicacao": "2024-01-22",
+            "start_index": 0,
+            "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+            "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+            "section": "Art. 1",
+            "chunk_id": "SP-005-512-ddb7d18ad1a4dc14",
+            "sha256": "9f8314b3eaefbfed715edb680db010aeb0e6fb3ab3bc7339249e3a774217cb93",
+            "chunk_index": 76
+          },
+          "distance": 0.25260961055755615,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-005-512-04ebeb2ea9a8719f",
+          "text": "Art. 2\n\nArt. 2º Os resíduos tratados nesta Portaria só poderão ser recebidos nos Ecopontos após a efetiva assinatura do Acordo Setorial de Logística Reversa ou Termo de Compromisso firmados com o Município de São Paulo pelos fabricantes, importadores, distribuidores, comerciantes ou associação que lhes represente, tratando expressamente do procedimento para a entrega e coleta dos resíduos nos Ecopontos.",
+          "metadata": {
+            "ano": 2024,
+            "source_id": "SP-005",
+            "jurisdicao": "sao_paulo_capital",
+            "section": "Art. 2",
+            "sha256": "9f8314b3eaefbfed715edb680db010aeb0e6fb3ab3bc7339249e3a774217cb93",
+            "tipo": "norma",
+            "data_coleta": "2026-10-10",
+            "start_index": 0,
+            "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+            "data_publicacao": "2024-01-22",
+            "chunk_index": 79,
+            "categoria": "ecopontos",
+            "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+            "chunk_id": "SP-005-512-04ebeb2ea9a8719f"
+          },
+          "distance": 0.25804102420806885,
+          "rerank_score": null
+        },
+        {
+          "id": "SP-005-512-04ed04c13cc3efd1",
+          "text": "I - estabelecimento de sistema de logística reversa, nas hipóteses em que não houver acordo setorial na mesma área de abrangência; ou\n\nII - estabelecimento de compromissos e metas mais exigentes do que aqueles previstos em acordo setorial já existente.",
+          "metadata": {
+            "tipo": "norma",
+            "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+            "ano": 2024,
+            "categoria": "ecopontos",
+            "chunk_index": 78,
+            "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+            "sha256": "9f8314b3eaefbfed715edb680db010aeb0e6fb3ab3bc7339249e3a774217cb93",
+            "source_id": "SP-005",
+            "jurisdicao": "sao_paulo_capital",
+            "chunk_id": "SP-005-512-04ed04c13cc3efd1",
+            "data_publicacao": "2024-01-22",
+            "start_index": 815,
+            "section": "Art. 1",
+            "data_coleta": "2026-10-10"
+          },
+          "distance": 0.270047664642334,
+          "rerank_score": null
+        }
+      ],
+      "sources": [],
+      "collection": "residuos_sp_512_a7f2adde70e62668",
+      "base_date": "2026-10-10",
+      "input_tokens": 1554,
+      "ranking_before": [
+        "SP-001-512-4e91d790c1a71bf1",
+        "SP-005-512-ddb7d18ad1a4dc14",
+        "SP-005-512-04ebeb2ea9a8719f",
+        "SP-005-512-04ed04c13cc3efd1",
+        "SP-001-512-ac67a6c0e4aaf46a",
+        "SP-004-512-d362d090d7ba01d7",
+        "SP-001-512-372b59536b1187cf",
+        "SP-004-512-8a35b4b10f5539f2"
+      ],
+      "ranking_after": [
+        "SP-001-512-4e91d790c1a71bf1",
+        "SP-005-512-ddb7d18ad1a4dc14",
+        "SP-005-512-04ebeb2ea9a8719f",
+        "SP-005-512-04ed04c13cc3efd1",
+        "SP-001-512-ac67a6c0e4aaf46a",
+        "SP-004-512-d362d090d7ba01d7",
+        "SP-001-512-372b59536b1187cf",
+        "SP-004-512-8a35b4b10f5539f2"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_baseline",
+      "question_id": "logistica_custos",
+      "question": "Segundo a Portaria SMSUB 8/2024, artigo 3, parágrafo 3, quem suporta os custos e a responsabilidade pela coleta, tratamento e destinação dos resíduos de logística reversa?",
+      "status": "ok",
+      "faithfulness": 0.6666666666666666,
+      "answer_relevancy": 0.0,
+      "expected_source_found": true,
+      "error": null,
+      "latency_seconds": 7.449
+    }
+  },
+  {
+    "configuration": "512_64_baseline",
+    "question": {
+      "id": "direito_informacao",
+      "question": "Quais direitos de acesso à informação e resposta a reclamações são previstos para o usuário dos serviços de limpeza urbana no artigo 5 da Lei 13.478/2002?",
+      "reference": "O artigo 5 prevê acesso às informações sobre os serviços de limpeza urbana e direito de resposta às reclamações dirigidas aos operadores ou ao órgão regulador.",
+      "source_ids": [
+        "SP-001"
+      ],
+      "sections": [
+        "Art. 5"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_baseline",
+      "question_id": "direito_informacao",
+      "question": "Quais direitos de acesso à informação e resposta a reclamações são previstos para o usuário dos serviços de limpeza urbana no artigo 5 da Lei 13.478/2002?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 1.1832
+    }
+  },
+  {
+    "configuration": "512_64_rerank",
+    "question": {
+      "id": "limite_descarga",
+      "question": "Segundo o Decreto 55.113/2014, qual é o limite de resíduos por descarga em um Ecoponto?",
+      "reference": "O artigo 3 limita a recepção a 1 m³ por descarga, para resíduos entregues pelos munícipes ou pequenos transportadores contratados pelos geradores.",
+      "source_ids": [
+        "SP-002"
+      ],
+      "sections": [
+        "Art. 3"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_rerank",
+      "question_id": "limite_descarga",
+      "question": "Segundo o Decreto 55.113/2014, qual é o limite de resíduos por descarga em um Ecoponto?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 17.5877
+    }
+  },
+  {
+    "configuration": "512_64_rerank",
+    "question": {
+      "id": "capacidade_e_descarga",
+      "question": "No Decreto 55.113/2014, a capacidade de 150 m³ do Ecoponto significa que um cidadão pode entregar 150 m³ de uma vez? Explique a diferença.",
+      "reference": "Não. O artigo 2 descreve a capacidade de recebimento de até 150 m³ do equipamento público, enquanto o artigo 3 limita cada descarga a 1 m³.",
+      "source_ids": [
+        "SP-002"
+      ],
+      "sections": [
+        "Art. 2",
+        "Art. 3"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_rerank",
+      "question_id": "capacidade_e_descarga",
+      "question": "No Decreto 55.113/2014, a capacidade de 150 m³ do Ecoponto significa que um cidadão pode entregar 150 m³ de uma vez? Explique a diferença.",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 3.0833
+    }
+  },
+  {
+    "configuration": "512_64_rerank",
+    "question": {
+      "id": "segregacao",
+      "question": "Segundo o parágrafo único do artigo 3 do Decreto 55.113/2014, os resíduos entregues aos Ecopontos devem estar previamente segregados? Para quê?",
+      "reference": "Sim. Os resíduos devem ser previamente segregados para posterior coleta diferenciada e remoção para adequada destinação.",
+      "source_ids": [
+        "SP-002"
+      ],
+      "sections": [
+        "Art. 3"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_rerank",
+      "question_id": "segregacao",
+      "question": "Segundo o parágrafo único do artigo 3 do Decreto 55.113/2014, os resíduos entregues aos Ecopontos devem estar previamente segregados? Para quê?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 2.1335
+    }
+  },
+  {
+    "configuration": "512_64_rerank",
+    "question": {
+      "id": "modelos_coleta",
+      "question": "Quais são os dois modelos de coleta seletiva de recicláveis secos previstos no artigo 1 da Portaria SMSUB 11/2020?",
+      "reference": "Coleta porta a porta por caminhões e Pontos de Entrega Voluntária (PEVs), disponibilizados conforme as características de ocupação do solo de cada região.",
+      "source_ids": [
+        "SP-003"
+      ],
+      "sections": [
+        "Art. 1"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_rerank",
+      "question_id": "modelos_coleta",
+      "question": "Quais são os dois modelos de coleta seletiva de recicláveis secos previstos no artigo 1 da Portaria SMSUB 11/2020?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 2.2885
+    }
+  },
+  {
+    "configuration": "512_64_rerank",
+    "question": {
+      "id": "distancia_pev",
+      "question": "Qual é o raio máximo de distância até um PEV considerado na Portaria SMSUB 11/2020 para áreas rurais ou assentamentos precários de difícil acesso e para os demais casos?",
+      "reference": "O artigo 2 prevê raio máximo de 3 quilômetros em áreas rurais e assentamentos precários de difícil acesso e 400 metros nos demais casos.",
+      "source_ids": [
+        "SP-003"
+      ],
+      "sections": [
+        "Art. 2"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_rerank",
+      "question_id": "distancia_pev",
+      "question": "Qual é o raio máximo de distância até um PEV considerado na Portaria SMSUB 11/2020 para áreas rurais ou assentamentos precários de difícil acesso e para os demais casos?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 2.775
+    }
+  },
+  {
+    "configuration": "512_64_rerank",
+    "question": {
+      "id": "definicao_volumosos",
+      "question": "Como o artigo 1, inciso II, da Lei 14.803/2008 define resíduos volumosos? Dê dois exemplos presentes no texto.",
+      "reference": "São materiais volumosos não removidos pela coleta municipal rotineira, não caracterizados como industriais; exemplos incluem móveis ou equipamentos domésticos inutilizados e peças de madeira.",
+      "source_ids": [
+        "SP-004"
+      ],
+      "sections": [
+        "Art. 1"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_rerank",
+      "question_id": "definicao_volumosos",
+      "question": "Como o artigo 1, inciso II, da Lei 14.803/2008 define resíduos volumosos? Dê dois exemplos presentes no texto.",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 3.056
+    }
+  },
+  {
+    "configuration": "512_64_rerank",
+    "question": {
+      "id": "residuos_proibidos",
+      "question": "Quais tipos de resíduos não podem ser descarregados nos Pontos de Entrega segundo o artigo 8, parágrafo 2, da Lei 14.803/2008?",
+      "reference": "Resíduos domiciliares não inertes oriundos do preparo de alimentos, resíduos industriais e resíduos dos serviços de saúde.",
+      "source_ids": [
+        "SP-004"
+      ],
+      "sections": [
+        "Art. 8"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_rerank",
+      "question_id": "residuos_proibidos",
+      "question": "Quais tipos de resíduos não podem ser descarregados nos Pontos de Entrega segundo o artigo 8, parágrafo 2, da Lei 14.803/2008?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 2.3674
+    }
+  },
+  {
+    "configuration": "512_64_rerank",
+    "question": {
+      "id": "logistica_condicao",
+      "question": "A Portaria SMSUB 8/2024 autoriza automaticamente qualquer resíduo de logística reversa em qualquer Ecoponto? Qual condição seu artigo 2 estabelece?",
+      "reference": "Não. O recebimento depende da efetiva assinatura de acordo setorial ou termo de compromisso com o município que trate expressamente dos procedimentos de entrega e coleta nos Ecopontos.",
+      "source_ids": [
+        "SP-005"
+      ],
+      "sections": [
+        "Art. 2"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_rerank",
+      "question_id": "logistica_condicao",
+      "question": "A Portaria SMSUB 8/2024 autoriza automaticamente qualquer resíduo de logística reversa em qualquer Ecoponto? Qual condição seu artigo 2 estabelece?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 3.08
+    }
+  },
+  {
+    "configuration": "512_64_rerank",
+    "question": {
+      "id": "logistica_custos",
+      "question": "Segundo a Portaria SMSUB 8/2024, artigo 3, parágrafo 3, quem suporta os custos e a responsabilidade pela coleta, tratamento e destinação dos resíduos de logística reversa?",
+      "reference": "Fabricantes, importadores, distribuidores, comerciantes ou associação que os represente suportam os custos e a responsabilidade operacional, civil e ambiental decorrente da operação.",
+      "source_ids": [
+        "SP-005"
+      ],
+      "sections": [
+        "Art. 3"
+      ]
+    },
+    "result": {
+      "query": "Segundo a Portaria SMSUB 8/2024, artigo 3, parágrafo 3, quem suporta os custos e a responsabilidade pela coleta, tratamento e destinação dos resíduos de logística reversa?",
+      "answer": "Não foi possível responder quem suporta os custos e a responsabilidade pela coleta, tratamento e destinação dos resíduos de logística reversa, pois os trechos fornecidos da Portaria SMSUB nº 8/2024 contemplam apenas os artigos 1º e 2º, não incluindo o artigo 3º mencionado na consulta.\n\nLimitações: O contexto fornecido não contém o artigo 3º da Portaria SMSUB nº 8/2024.",
+      "structured": {
+        "status": "sem_base",
+        "claims": [],
+        "message": "Não foi possível responder quem suporta os custos e a responsabilidade pela coleta, tratamento e destinação dos resíduos de logística reversa, pois os trechos fornecidos da Portaria SMSUB nº 8/2024 contemplam apenas os artigos 1º e 2º, não incluindo o artigo 3º mencionado na consulta.",
+        "limitations": [
+          "O contexto fornecido não contém o artigo 3º da Portaria SMSUB nº 8/2024."
+        ]
+      },
+      "chunks": [
+        {
+          "id": "SP-005-512-04ebeb2ea9a8719f",
+          "text": "Art. 2\n\nArt. 2º Os resíduos tratados nesta Portaria só poderão ser recebidos nos Ecopontos após a efetiva assinatura do Acordo Setorial de Logística Reversa ou Termo de Compromisso firmados com o Município de São Paulo pelos fabricantes, importadores, distribuidores, comerciantes ou associação que lhes represente, tratando expressamente do procedimento para a entrega e coleta dos resíduos nos Ecopontos.",
+          "metadata": {
+            "jurisdicao": "sao_paulo_capital",
+            "data_coleta": "2026-10-10",
+            "categoria": "ecopontos",
+            "tipo": "norma",
+            "source_id": "SP-005",
+            "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+            "chunk_id": "SP-005-512-04ebeb2ea9a8719f",
+            "section": "Art. 2",
+            "start_index": 0,
+            "chunk_index": 79,
+            "sha256": "9f8314b3eaefbfed715edb680db010aeb0e6fb3ab3bc7339249e3a774217cb93",
+            "data_publicacao": "2024-01-22",
+            "ano": 2024,
+            "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024"
+          },
+          "distance": 0.25804102420806885,
+          "rerank_score": -2.1965739727020264
+        },
+        {
+          "id": "SP-005-512-ddb7d18ad1a4dc14",
+          "text": "Art. 1\n\nArt. 1º Fica autorizado, nos termos desta Portaria, o recebimento nos Ecopontos, implantados conforme o Decreto nº 55.113 de 15 de maio de 2014 , de resíduos sólidos entregues por munícipes ou pequenos transportadores que sejam objeto de Acordos Setoriais de Logística Reversa ou Termo de Compromisso firmados com o Município de São Paulo.",
+          "metadata": {
+            "source_id": "SP-005",
+            "jurisdicao": "sao_paulo_capital",
+            "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+            "ano": 2024,
+            "tipo": "norma",
+            "start_index": 0,
+            "categoria": "ecopontos",
+            "data_coleta": "2026-10-10",
+            "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+            "data_publicacao": "2024-01-22",
+            "sha256": "9f8314b3eaefbfed715edb680db010aeb0e6fb3ab3bc7339249e3a774217cb93",
+            "section": "Art. 1",
+            "chunk_id": "SP-005-512-ddb7d18ad1a4dc14",
+            "chunk_index": 76
+          },
+          "distance": 0.25260961055755615,
+          "rerank_score": -3.4768214225769043
+        },
+        {
+          "id": "SP-004-512-d362d090d7ba01d7",
+          "text": "VII - Equipamentos de Coleta de Resíduos da Construção Civil e Resíduos Volumosos: dispositivos utilizados para a coleta e posterior transporte de resíduos, tais como caçambas metálicas estacionárias, caçambas basculantes instaladas em veículos autopropelidos, carrocerias para carga seca, contêineres têxteis flexíveis e outros, incluídos os equipamentos utilizados no transporte do resultado de movimento de terra.",
+          "metadata": {
+            "start_index": 2075,
+            "title": "Lei nº 14.803/2008 — resíduos da construção civil e volumosos",
+            "chunk_index": 40,
+            "data_coleta": "2026-10-10",
+            "jurisdicao": "sao_paulo_capital",
+            "section": "Art. 1",
+            "categoria": "descarte",
+            "chunk_id": "SP-004-512-d362d090d7ba01d7",
+            "tipo": "norma",
+            "sha256": "f281a57994b442b4692f27fc07a966e476aa58fa37e7ae989c7018803c4c9a9c",
+            "data_publicacao": "2008-06-26",
+            "url": "https://legislacao.prefeitura.sp.gov.br/lei-14803-de-26-de-junho-de-2008",
+            "ano": 2008,
+            "source_id": "SP-004"
+          },
+          "distance": 0.28502410650253296,
+          "rerank_score": -7.009647846221924
+        },
+        {
+          "id": "SP-001-512-4e91d790c1a71bf1",
+          "text": "III - responsabilizar-se pela coleta, transporte, tratamento e destinação final de resíduos sólidos que ultrapassem a massa ou volume dos serviços essenciais divisíveis, tais como entulhos e grandes objetos, na forma desta lei e da regulamentação;\n\nIV - responsabilizar-se pela coleta, transporte, tratamento e destinação final de animais mortos de sua propriedade, na forma desta lei e da regulamentação;",
+          "metadata": {
+            "sha256": "89d3e1aa12f6f6a29c1b9cd858a2f1f2fe77e80fafe499dfb41da5a504d6d579",
+            "ano": 2002,
+            "data_publicacao": "2002-12-30",
+            "chunk_index": 13,
+            "tipo": "norma",
+            "title": "Lei nº 13.478/2002 — disposições sobre limpeza urbana",
+            "jurisdicao": "sao_paulo_capital",
+            "categoria": "limpeza_urbana",
+            "section": "Art. 6",
+            "source_id": "SP-001",
+            "start_index": 294,
+            "data_coleta": "2026-10-10",
+            "url": "https://legislacao.prefeitura.sp.gov.br/lei-13478-de-30-de-dezembro-de-2002",
+            "chunk_id": "SP-001-512-4e91d790c1a71bf1"
+          },
+          "distance": 0.2275260090827942,
+          "rerank_score": -7.178812026977539
+        }
+      ],
+      "sources": [],
+      "collection": "residuos_sp_512_a7f2adde70e62668",
+      "base_date": "2026-10-10",
+      "input_tokens": 1602,
+      "ranking_before": [
+        "SP-001-512-4e91d790c1a71bf1",
+        "SP-005-512-ddb7d18ad1a4dc14",
+        "SP-005-512-04ebeb2ea9a8719f",
+        "SP-005-512-04ed04c13cc3efd1",
+        "SP-001-512-ac67a6c0e4aaf46a",
+        "SP-004-512-d362d090d7ba01d7",
+        "SP-001-512-372b59536b1187cf",
+        "SP-004-512-8a35b4b10f5539f2"
+      ],
+      "ranking_after": [
+        "SP-005-512-04ebeb2ea9a8719f",
+        "SP-005-512-ddb7d18ad1a4dc14",
+        "SP-004-512-d362d090d7ba01d7",
+        "SP-001-512-4e91d790c1a71bf1",
+        "SP-001-512-372b59536b1187cf",
+        "SP-001-512-ac67a6c0e4aaf46a",
+        "SP-004-512-8a35b4b10f5539f2",
+        "SP-005-512-04ed04c13cc3efd1"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_rerank",
+      "question_id": "logistica_custos",
+      "question": "Segundo a Portaria SMSUB 8/2024, artigo 3, parágrafo 3, quem suporta os custos e a responsabilidade pela coleta, tratamento e destinação dos resíduos de logística reversa?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "Não foi possível concluir a consulta. Verifique a configuração e tente novamente.",
+      "error_type": "RuntimeError",
+      "latency_seconds": 1.6292
+    }
+  },
+  {
+    "configuration": "512_64_rerank",
+    "question": {
+      "id": "direito_informacao",
+      "question": "Quais direitos de acesso à informação e resposta a reclamações são previstos para o usuário dos serviços de limpeza urbana no artigo 5 da Lei 13.478/2002?",
+      "reference": "O artigo 5 prevê acesso às informações sobre os serviços de limpeza urbana e direito de resposta às reclamações dirigidas aos operadores ou ao órgão regulador.",
+      "source_ids": [
+        "SP-001"
+      ],
+      "sections": [
+        "Art. 5"
+      ]
+    },
+    "evaluation": {
+      "configuration": "512_64_rerank",
+      "question_id": "direito_informacao",
+      "question": "Quais direitos de acesso à informação e resposta a reclamações são previstos para o usuário dos serviços de limpeza urbana no artigo 5 da Lei 13.478/2002?",
+      "status": "error",
+      "faithfulness": null,
+      "answer_relevancy": null,
+      "expected_source_found": false,
+      "error": "A análise não passou na validação. O turno não foi salvo; tente novamente.",
+      "error_type": "OutputParserException",
+      "latency_seconds": 2.4067
+    }
+  }
+]

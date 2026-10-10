@@ -1,0 +1,4 @@
+configuration,questions,valid,errors,complete,faithfulness_mean,answer_relevancy_mean,latency_mean_seconds
+256_32_baseline,10,10,0,True,1.0,0.8582962267767718,5.10924
+512_64_baseline,10,10,0,True,1.0,0.8581441146182205,5.21099
+512_64_rerank,10,10,0,True,1.0,0.8570547757833894,6.58676

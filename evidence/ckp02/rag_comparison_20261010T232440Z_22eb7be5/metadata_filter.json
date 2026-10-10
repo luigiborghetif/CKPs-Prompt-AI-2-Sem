@@ -1,0 +1,217 @@
+{
+  "filters": {
+    "tipo": "norma",
+    "categoria": "ecopontos",
+    "source_id": null,
+    "section": null,
+    "published_from_year": 2020
+  },
+  "where": {
+    "$and": [
+      {
+        "tipo": {
+          "$eq": "norma"
+        }
+      },
+      {
+        "categoria": {
+          "$eq": "ecopontos"
+        }
+      },
+      {
+        "ano": {
+          "$gte": 2020
+        }
+      }
+    ]
+  },
+  "result": {
+    "query": "Quais condições a norma estabelece para logística reversa em Ecopontos?",
+    "answer": "Os resíduos abrangidos pela Portaria SMSUB nº 8/2024 só podem ser recebidos nos Ecopontos após a assinatura de um Termo de Compromisso ou Acordo Setorial de Logística Reversa firmado com o Município de São Paulo.\n\nFonte: [SP-005 · Art. 2 · SP-005-512-04ebeb2ea9a8719f](https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024)\n\nTais acordos ou termos devem ser celebrados entre o Município e fabricantes, importadores, distribuidores, comerciantes ou suas associações representativas, detalhando expressamente os procedimentos de entrega e coleta nos Ecopontos.\n\nFonte: [SP-005 · Art. 2 · SP-005-512-04ebeb2ea9a8719f](https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024)\n\nO Acordo Setorial de Logística Reversa é definido como um ato contratual para a implantação da responsabilidade compartilhada pelo ciclo de vida do produto.\n\nFonte: [SP-005 · Art. 1 · SP-005-512-721daaa49fbedbdb](https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024)\n\nOs Termos de Compromisso são firmados com o objetivo de estabelecer sistemas de logística reversa quando não houver acordo setorial na mesma área de abrangência, ou para definir metas e compromissos mais rigorosos que os de acordos já existentes.\n\nFonte: [SP-005 · Art. 1 · SP-005-512-04ed04c13cc3efd1](https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024); [SP-005 · Art. 1 · SP-005-512-721daaa49fbedbdb](https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024)\n\nCaso o Poder Público municipal realize atividades que sejam de responsabilidade de fabricantes, importadores, distribuidores e comerciantes nos sistemas de logística reversa, deverá haver a devida remuneração, conforme acordado entre as partes.\n\nFonte: [SP-005 · Art. 3 · SP-005-512-3bed647762a869c9](https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024)",
+    "structured": {
+      "status": "respondida",
+      "claims": [
+        {
+          "text": "Os resíduos abrangidos pela Portaria SMSUB nº 8/2024 só podem ser recebidos nos Ecopontos após a assinatura de um Termo de Compromisso ou Acordo Setorial de Logística Reversa firmado com o Município de São Paulo.",
+          "chunk_ids": [
+            "SP-005-512-04ebeb2ea9a8719f"
+          ]
+        },
+        {
+          "text": "Tais acordos ou termos devem ser celebrados entre o Município e fabricantes, importadores, distribuidores, comerciantes ou suas associações representativas, detalhando expressamente os procedimentos de entrega e coleta nos Ecopontos.",
+          "chunk_ids": [
+            "SP-005-512-04ebeb2ea9a8719f"
+          ]
+        },
+        {
+          "text": "O Acordo Setorial de Logística Reversa é definido como um ato contratual para a implantação da responsabilidade compartilhada pelo ciclo de vida do produto.",
+          "chunk_ids": [
+            "SP-005-512-721daaa49fbedbdb"
+          ]
+        },
+        {
+          "text": "Os Termos de Compromisso são firmados com o objetivo de estabelecer sistemas de logística reversa quando não houver acordo setorial na mesma área de abrangência, ou para definir metas e compromissos mais rigorosos que os de acordos já existentes.",
+          "chunk_ids": [
+            "SP-005-512-04ed04c13cc3efd1",
+            "SP-005-512-721daaa49fbedbdb"
+          ]
+        },
+        {
+          "text": "Caso o Poder Público municipal realize atividades que sejam de responsabilidade de fabricantes, importadores, distribuidores e comerciantes nos sistemas de logística reversa, deverá haver a devida remuneração, conforme acordado entre as partes.",
+          "chunk_ids": [
+            "SP-005-512-3bed647762a869c9"
+          ]
+        }
+      ],
+      "message": "",
+      "limitations": []
+    },
+    "chunks": [
+      {
+        "id": "SP-005-512-04ed04c13cc3efd1",
+        "text": "I - estabelecimento de sistema de logística reversa, nas hipóteses em que não houver acordo setorial na mesma área de abrangência; ou\n\nII - estabelecimento de compromissos e metas mais exigentes do que aqueles previstos em acordo setorial já existente.",
+        "metadata": {
+          "section": "Art. 1",
+          "tipo": "norma",
+          "data_coleta": "2026-10-10",
+          "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+          "data_publicacao": "2024-01-22",
+          "chunk_index": 78,
+          "start_index": 815,
+          "jurisdicao": "sao_paulo_capital",
+          "source_id": "SP-005",
+          "chunk_id": "SP-005-512-04ed04c13cc3efd1",
+          "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+          "sha256": "9f8314b3eaefbfed715edb680db010aeb0e6fb3ab3bc7339249e3a774217cb93",
+          "categoria": "ecopontos",
+          "ano": 2024
+        },
+        "distance": 0.2182653546333313,
+        "rerank_score": 3.875903367996216
+      },
+      {
+        "id": "SP-005-512-04ebeb2ea9a8719f",
+        "text": "Art. 2\n\nArt. 2º Os resíduos tratados nesta Portaria só poderão ser recebidos nos Ecopontos após a efetiva assinatura do Acordo Setorial de Logística Reversa ou Termo de Compromisso firmados com o Município de São Paulo pelos fabricantes, importadores, distribuidores, comerciantes ou associação que lhes represente, tratando expressamente do procedimento para a entrega e coleta dos resíduos nos Ecopontos.",
+        "metadata": {
+          "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+          "jurisdicao": "sao_paulo_capital",
+          "ano": 2024,
+          "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+          "data_coleta": "2026-10-10",
+          "source_id": "SP-005",
+          "categoria": "ecopontos",
+          "section": "Art. 2",
+          "sha256": "9f8314b3eaefbfed715edb680db010aeb0e6fb3ab3bc7339249e3a774217cb93",
+          "chunk_id": "SP-005-512-04ebeb2ea9a8719f",
+          "chunk_index": 79,
+          "data_publicacao": "2024-01-22",
+          "start_index": 0,
+          "tipo": "norma"
+        },
+        "distance": 0.2530866265296936,
+        "rerank_score": 2.691470146179199
+      },
+      {
+        "id": "SP-005-512-3bed647762a869c9",
+        "text": "§ 2º Se ações do Poder Público municipal se encarregar de atividades de responsabilidade dos fabricantes, importadores, distribuidores e comerciantes nos sistemas de logística reversa dos produtos e embalagens previstas no art. 33 da Lei Federal nº 12.305, de 02 de agosto de 2010 , deverá ser devidamente remunerado, na forma previamente acordada entre as partes.",
+        "metadata": {
+          "jurisdicao": "sao_paulo_capital",
+          "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+          "ano": 2024,
+          "source_id": "SP-005",
+          "chunk_id": "SP-005-512-3bed647762a869c9",
+          "tipo": "norma",
+          "section": "Art. 3",
+          "sha256": "9f8314b3eaefbfed715edb680db010aeb0e6fb3ab3bc7339249e3a774217cb93",
+          "data_publicacao": "2024-01-22",
+          "data_coleta": "2026-10-10",
+          "chunk_index": 83,
+          "categoria": "ecopontos",
+          "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+          "start_index": 811
+        },
+        "distance": 0.31650614738464355,
+        "rerank_score": 1.5938681364059448
+      },
+      {
+        "id": "SP-005-512-721daaa49fbedbdb",
+        "text": "§ 1º Entende-se por Acordo Setorial de Logística Reversa o ato de natureza contratual firmado entre o poder público municipal e fabricantes, importadores, distribuidores ou comerciantes, tendo em vista a implantação da responsabilidade compartilhada pelo ciclo de vida do produto.\n\n§ 2º Entende-se por Termos de Compromisso o documento firmado entre o Poder Público municipal com os fabricantes, os importadores, os distribuidores ou os comerciantes com vistas ao:",
+        "metadata": {
+          "source_id": "SP-005",
+          "chunk_index": 77,
+          "categoria": "ecopontos",
+          "start_index": 349,
+          "sha256": "9f8314b3eaefbfed715edb680db010aeb0e6fb3ab3bc7339249e3a774217cb93",
+          "section": "Art. 1",
+          "chunk_id": "SP-005-512-721daaa49fbedbdb",
+          "data_coleta": "2026-10-10",
+          "jurisdicao": "sao_paulo_capital",
+          "tipo": "norma",
+          "data_publicacao": "2024-01-22",
+          "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+          "ano": 2024,
+          "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024"
+        },
+        "distance": 0.2642401456832886,
+        "rerank_score": 0.5990509986877441
+      }
+    ],
+    "sources": [
+      {
+        "chunk_id": "SP-005-512-04ebeb2ea9a8719f",
+        "document_id": "SP-005",
+        "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+        "section": "Art. 2",
+        "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+        "collected_at": "2026-10-10"
+      },
+      {
+        "chunk_id": "SP-005-512-721daaa49fbedbdb",
+        "document_id": "SP-005",
+        "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+        "section": "Art. 1",
+        "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+        "collected_at": "2026-10-10"
+      },
+      {
+        "chunk_id": "SP-005-512-04ed04c13cc3efd1",
+        "document_id": "SP-005",
+        "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+        "section": "Art. 1",
+        "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+        "collected_at": "2026-10-10"
+      },
+      {
+        "chunk_id": "SP-005-512-3bed647762a869c9",
+        "document_id": "SP-005",
+        "title": "Portaria SMSUB nº 8/2024 — logística reversa nos Ecopontos",
+        "section": "Art. 3",
+        "url": "https://legislacao.prefeitura.sp.gov.br/portaria-secretaria-municipal-das-subprefeituras-smsub-8-de-22-de-janeiro-de-2024",
+        "collected_at": "2026-10-10"
+      }
+    ],
+    "collection": "residuos_sp_512_a7f2adde70e62668",
+    "base_date": "2026-10-10",
+    "input_tokens": 1575,
+    "ranking_before": [
+      "SP-005-512-04ed04c13cc3efd1",
+      "SP-005-512-04ebeb2ea9a8719f",
+      "SP-005-512-721daaa49fbedbdb",
+      "SP-005-512-ddb7d18ad1a4dc14",
+      "SP-005-512-3bed647762a869c9",
+      "SP-005-512-ceae4761df4f6866",
+      "SP-005-512-00ce01b69acbb519",
+      "SP-005-512-1fdd19c512b404ef"
+    ],
+    "ranking_after": [
+      "SP-005-512-04ed04c13cc3efd1",
+      "SP-005-512-04ebeb2ea9a8719f",
+      "SP-005-512-3bed647762a869c9",
+      "SP-005-512-721daaa49fbedbdb",
+      "SP-005-512-ddb7d18ad1a4dc14",
+      "SP-005-512-1fdd19c512b404ef",
+      "SP-005-512-ceae4761df4f6866",
+      "SP-005-512-00ce01b69acbb519"
+    ]
+  }
+}

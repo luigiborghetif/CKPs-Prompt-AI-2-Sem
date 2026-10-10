@@ -1,0 +1,5 @@
+{
+  "selected": "256_32_baseline",
+  "reason": "Maior faithfulness; answer_relevancy como desempate; todas as perguntas válidas.",
+  "target_ideal": 0.9
+}

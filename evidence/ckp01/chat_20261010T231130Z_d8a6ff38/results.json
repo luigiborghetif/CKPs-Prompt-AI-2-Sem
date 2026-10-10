@@ -1,0 +1,74 @@
+[
+  {
+    "id": "continuidade_seis_turnos",
+    "turns": [],
+    "status": "error",
+    "checks": {},
+    "passed": false,
+    "error": "Não foi possível concluir a consulta. Verifique a configuração e tente novamente.",
+    "latency_seconds": 0.0298
+  },
+  {
+    "id": "ecopontos",
+    "turns": [],
+    "status": "error",
+    "checks": {},
+    "passed": false,
+    "error": "Não foi possível concluir a consulta. Verifique a configuração e tente novamente.",
+    "latency_seconds": 0.0024
+  },
+  {
+    "id": "outra_jurisdicao",
+    "turns": [],
+    "status": "error",
+    "checks": {},
+    "passed": false,
+    "error": "Não foi possível concluir a consulta. Verifique a configuração e tente novamente.",
+    "latency_seconds": 0.0019
+  },
+  {
+    "id": "estado_nao_capital",
+    "turns": [],
+    "status": "error",
+    "checks": {},
+    "passed": false,
+    "error": "Não foi possível concluir a consulta. Verifique a configuração e tente novamente.",
+    "latency_seconds": 0.0013
+  },
+  {
+    "id": "dados_ausentes",
+    "turns": [],
+    "status": "error",
+    "checks": {},
+    "passed": false,
+    "error": "Não foi possível concluir a consulta. Verifique a configuração e tente novamente.",
+    "latency_seconds": 0.0023
+  },
+  {
+    "id": "multa_sem_base",
+    "turns": [],
+    "status": "error",
+    "checks": {},
+    "passed": false,
+    "error": "Não foi possível concluir a consulta. Verifique a configuração e tente novamente.",
+    "latency_seconds": 0.001
+  },
+  {
+    "id": "rotas_sem_base",
+    "turns": [],
+    "status": "error",
+    "checks": {},
+    "passed": false,
+    "error": "Não foi possível concluir a consulta. Verifique a configuração e tente novamente.",
+    "latency_seconds": 0.0008
+  },
+  {
+    "id": "injecao",
+    "turns": [],
+    "status": "error",
+    "checks": {},
+    "passed": false,
+    "error": "Não foi possível concluir a consulta. Verifique a configuração e tente novamente.",
+    "latency_seconds": 0.0008
+  }
+]

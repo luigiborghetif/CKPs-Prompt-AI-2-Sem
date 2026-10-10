@@ -1,0 +1,42 @@
+[
+  {
+    "window": 0,
+    "input_tokens": 410,
+    "quality_valid_mean": null,
+    "successful_runs": 0,
+    "errors": 3,
+    "latency_mean_seconds": 0.0465
+  },
+  {
+    "window": 5,
+    "input_tokens": 1930,
+    "quality_valid_mean": null,
+    "successful_runs": 0,
+    "errors": 3,
+    "latency_mean_seconds": 0.0019666666666666665
+  },
+  {
+    "window": 10,
+    "input_tokens": 3450,
+    "quality_valid_mean": null,
+    "successful_runs": 0,
+    "errors": 3,
+    "latency_mean_seconds": 0.0033666666666666667
+  },
+  {
+    "window": 15,
+    "input_tokens": 4970,
+    "quality_valid_mean": null,
+    "successful_runs": 0,
+    "errors": 3,
+    "latency_mean_seconds": 0.0042
+  },
+  {
+    "window": 20,
+    "input_tokens": 6490,
+    "quality_valid_mean": null,
+    "successful_runs": 0,
+    "errors": 3,
+    "latency_mean_seconds": 0.004666666666666667
+  }
+]

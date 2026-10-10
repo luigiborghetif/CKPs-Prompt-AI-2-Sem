@@ -1,0 +1,35 @@
+{
+  "utc": "2026-10-10T23:12:15.198748+00:00",
+  "model": "gemma4:cloud",
+  "api_model": "gemma4:31b",
+  "base_url": "https://ollama.com",
+  "temperature": 0.0,
+  "max_output_tokens": 900,
+  "memory_tokens": 1200,
+  "tokenizer": "cl100k_base",
+  "tokens_are_estimates": true,
+  "versions": {
+    "langchain-classic": "1.0.8",
+    "langchain-core": "1.6.9",
+    "langchain-ollama": "1.1.0",
+    "pydantic": "2.14.0",
+    "tiktoken": "0.14.0"
+  },
+  "windows": [
+    0,
+    5,
+    10,
+    15,
+    20
+  ],
+  "repeats": 3,
+  "target": {
+    "municipio": "São Paulo capital",
+    "residuo": "entulho",
+    "volume_m3": 0.5,
+    "codigo": "SP-ALVO-7319"
+  },
+  "question": "Qual é o município, o resíduo, o volume em m³ e o código do REGISTRO ALVO?",
+  "system_prompt": "<tarefa>\nExtraia os quatro fatos do REGISTRO ALVO do contexto. Ignore os registros de\ndistração. Use null se o fato não estiver presente. Não use conhecimento externo.\n</tarefa>\n<contexto>{contexto}</contexto>\n<formato>{format_instructions}</formato>",
+  "method": "Sem memória/poda; registro alvo presente em todas as janelas."
+}
